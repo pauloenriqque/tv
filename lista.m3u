@@ -1,0 +1,1479 @@
+#EXTM3U url-tvg="https://github.com/rootcoder/epgtv" 
+##### https://drive.google.com/file/d/1yd_WuBrY7LN7HCgGMy28zq9k_Jz12Szk/view?usp=drive_link / https://bit.ly/listaphs #######
+
+
+
+#EXTINF:-1 tvg-logo="https://vetores.org/wp-content/uploads/multishow.png" group-title="CANAIS | FILMES E SÉRIES - MULTISHOW - SERVIDOR 1
+http://46.151.196.223:14048
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="https://assets.b9.com.br/wp-content/uploads/2015/07/mega1-920x517.jpg" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX
+http://169.197.140.199:14832
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDQ-27bdrzrNw5olkhAYisq9HjrJO-ez6zRUY6T9OrmWnqN7GDIT2RfgPVl62dFvtPL4w4FMWru_8gbRl9av2mxIYw9a3OFjTRB3dC-BWnQEmvA9Ewe9ZoZDUiyX1nJgmXqR028lJSzwe/s1600/cinemax-2014.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX
+http://streamer.sattvacabo.com.br/CINEMAX/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="CANAIS | FILMES E SÉRIES",GLOBOPLAY NOVELAS
+http://79.127.238.228:14455/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05E0q6L.png" group-title="CANAIS | FILMES E SÉRIES",TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-1080p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="CANAIS | FILMES E SÉRIES",MOVIE SPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/warner-bros-logo.jpg?q=50&fit=crop&w=1600&h=900&dpr=1.5" group-title="CANAIS | FILMES E SÉRIES",WARNER BROS TV - SERVIDOR 1
+http://79.127.238.228:14647/
+#EXTINF:-1 tvg-logo="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/warner-bros-logo.jpg?q=50&fit=crop&w=1600&h=900&dpr=1.5" group-title="CANAIS | FILMES E SÉRIES",WARNER BROS TV - SERVIDOR 2
+http://46.151.196.223:14648
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/poster/480x270/runtime_brazil_1400x2000_0.jpg" group-title="CANAIS | FILMES E SÉRIES"",RUN TIME - ROMANCE
+https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/poster/480x270/runtime_brazil_1400x2000_0.jpg" group-title="CANAIS | FILMES E SÉRIES"",RUN TIME - FAMÍLIA
+https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/poster/480x270/runtime_brazil_1400x2000_0.jpg" group-title="CANAIS | FILMES E SÉRIES"",RUN TIME - CRIME
+https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/poster/480x270/runtime_brazil_1400x2000_0.jpg" group-title="CANAIS | FILMES E SÉRIES"",RUN TIME - COMÉDIA
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/poster/480x270/runtime_brazil_1400x2000_0.jpg" group-title="CANAIS | FILMES E SÉRIES"",RUN TIME - AÇÃO
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/poster/480x270/runtime_brazil_1400x2000_0.jpg" group-title="CANAIS | FILMES E SÉRIES"",RUN TIME - SUSPENSE
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png?$ORIGIN_PNG$" group-title="CANAIS | FILMES E SÉRIES",SONY - EMOÇÕES
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVdTeeUFGVsXkRCQ3yY1WYw3c4tDCWMm0jQ&s" group-title="CANAIS | FILMES E SÉRIES",SONY - CLASSIC
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3bd552eca6645942a60a053fe61fafb.webp" group-title="CANAIS | FILMES E SÉRIES",SONY - NOVELAS
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8spUd_f282qm1xLVpumVoublcqvHRYJen98bG4SKb5R0SYqjj_x61j7wQnUYJyj3Q2Wc&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",A&E - SERVIDOR 1
+http://79.127.238.228:14551
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8spUd_f282qm1xLVpumVoublcqvHRYJen98bG4SKb5R0SYqjj_x61j7wQnUYJyj3Q2Wc&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",A&E - SERVIDOR 2
+https://cdn-5.nxplay.com.br/AeE_BRASIL_TK/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="CANAIS | FILMES E SÉRIES",MY TIME NETWORK - SERVIDOR 1
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3XeDwHXpVUBD6sogGoaaFLVImbKFAyOmJ1zVDtmRPvBFUuZTeQCGRRmrB_94tr5FoB8=w600-h300-pc0xffffff-pd" group-title="CANAIS | FILMES E SÉRIES",HALLO SÉRIES - SERVIDOR 1
+https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3XeDwHXpVUBD6sogGoaaFLVImbKFAyOmJ1zVDtmRPvBFUuZTeQCGRRmrB_94tr5FoB8=w600-h300-pc0xffffff-pd" group-title="CANAIS | FILMES E SÉRIES",HALLO CLASSIC - SERVIDOR 1
+https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/663e7a0b0ccd5d2298d09146/020c39fd-2a48-4476-9dde-0a103c20ca97/Z.png" group-title="CANAIS | FILMES E SÉRIES",HALLO MOVIES - SERVIDOR 1
+https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRGpEQ03hrFY5YarXxzobZuZS9PmzZsXaTp6PVlH_qXZ5fgOg-kISEVTJIPo9oXUE5Lo&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",HALLO ANIME - SERVIDOR 1
+https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.fmi3WfSN3Wc8d5aBujG0DgHaDY?w=343&h=159&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",AMC - SERVIDOR 1
+http://46.151.196.223:14636
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.fmi3WfSN3Wc8d5aBujG0DgHaDY?w=343&h=159&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",AMC - SERVIDOR 2
+http://79.127.243.211:14565
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.fmi3WfSN3Wc8d5aBujG0DgHaDY?w=343&h=159&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",AMC - SERVIDOR 3
+https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/logohbosignature-min.png" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE - SERVIDOR 1
+http://46.151.196.223:14929
+#EXTINF:-1 tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/logohbosignature-min.png" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE - SERVIDOR 2
+http://streamer.sattvacabo.com.br/HBO2/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.NmHkr4X3Pej9HFc4IE65aQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",HBO - SERVIDOR 1
+http://79.127.243.211:14668
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/689b6e66975335.5b2ac2d3085cc.jpg" group-title="CANAIS | FILMES E SÉRIES",HBO+ - SERVIDOR 1
+http://streamer.sattvacabo.com.br/HBO_PLUS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_2.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2 - SERVIDOR 1
+http://79.127.243.211:14660
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_2.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2 - SERVIDOR 2
+http://streamer.sattvacabo.com.br/HBO2/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-mundi-252x252.png" group-title="CANAIS | FILMES E SÉRIES",HBO MUNDI - SERVIDOR 1
+http://185.236.183.118:16413/
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_FAMILY.png" group-title="CANAIS | FILMES E SÉRIES",HBO FAMILY - SERVIDOR 1
+http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.filmelier.com/images/optimized/filmelier-logo_153x20.webp" group-title="CANAIS | FILMES E SÉRIES",FILMELIER - SERVIDOR 2
+https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.meuguia.tv/logos/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM - SERVIDOR 1
+https://cdn-5.nxplay.com.br/TCM_TK/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.lDS8LGQmvx_Grjp-AJ80jgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",TNT - SERVIDOR 1
+https://cdn-5.nxplay.com.br/TNT_TK/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.lDS8LGQmvx_Grjp-AJ80jgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",TNT - SERVIDOR 2
+https://cdn-5.nxplay.com.br/TNT_TK/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wq1r13HcuhW0DALmiB4vOuudUzoXgZEiR7xwO5Xyw5ewTOqFsGjQmW1st0dAEoJ7oMW4oDPB=s160-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS - SERVIDOR 1
+http://185.246.208.74:14941/
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zXDMuXVkpUWS1gQJ5ESBygAAAA?w=130&h=180&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES - SERVIDOR 1
+http://79.127.243.211:14619
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zXDMuXVkpUWS1gQJ5ESBygAAAA?w=130&h=180&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES - SERVIDOR 2
+http://185.246.208.74:14944/
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.9M69eKHaaIQ_NzEuPkvEvQAAAA?w=202&h=176&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",SPACE - SERVIDOR 1
+http://46.151.196.223:14607
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.9M69eKHaaIQ_NzEuPkvEvQAAAA?w=202&h=176&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",SPACE - SERVIDOR 2
+https://cdn-5.nxplay.com.br/SPACE_TK/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0mZlLN21WOrAtwdSbQrgibNS9NspaXoIMw&s" group-title="CANAIS | FILMES E SÉRIES",SONY CHANNEL - SERVIDOR 1
+https://cdn-5.nxplay.com.br/SONY_CHANNEL/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dL3xeYjH8ww/XvuJsizX6RI/AAAAAAAAHIQ/FC5S-H7Ys6QZM-TJGTBgRp3GP4tlhTMYgCNcBGAsYHQ/s1600/RECORD%2BPNG.png" group-title="CANAIS | FILMES E SÉRIES",TC ACTION - SERVIDOR 1
+http://46.151.196.223:14326
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dL3xeYjH8ww/XvuJsizX6RI/AAAAAAAAHIQ/FC5S-H7Ys6QZM-TJGTBgRp3GP4tlhTMYgCNcBGAsYHQ/s1600/RECORD%2BPNG.png" group-title="CANAIS | FILMES E SÉRIES",TC ACTION - SERVIDOR 2
+http://46.151.196.223:14328
+#EXTINF:-1 tvg-logo="https://archive.org/download/brunoflixlogos/tc_fun.png" group-title="CANAIS | FILMES E SÉRIES",TC FUN - SERVIDOR 1
+http://46.151.196.223:14337
+#EXTINF:-1 tvg-logo="https://archive.org/download/brunoflixlogos/tc_fun.png" group-title="CANAIS | FILMES E SÉRIES",TC FUN - SERVIDOR 2
+http://46.151.196.223:14340
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Tcpipocab.jpg/revision/latest?cb=20200817021740&path-prefix=pt-br" group-title="CANAIS | FILMES E SÉRIES",TC PIPOCA - SERVIDOR 1
+http://46.151.196.223:14343
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Tcpipocab.jpg/revision/latest?cb=20200817021740&path-prefix=pt-br" group-title="CANAIS | FILMES E SÉRIES",TC PIPOCA - SERVIDOR 2
+http://79.127.243.211:14644
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Tcpipocab.jpg/revision/latest?cb=20200817021740&path-prefix=pt-br" group-title="CANAIS | FILMES E SÉRIES",TC PIPOCA - SERVIDOR 3
+http://46.151.196.223:14344
+#EXTINF:-1 tvg-logo="https://ofertasclaro.com.br/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fofertasclaro%2FaC8OYSdWJ-7kScAq_TelecinePremium.webp%3Fauto%3Dformat%252Ccompress%26rect%3D0%252C14%252C266%252C150%26w%3D275%26h%3D155&w=1920&q=75" group-title="CANAIS | FILMES E SÉRIES",TC PREMIUM - SERVIDOR 1
+http://79.127.243.211:14648
+#EXTINF:-1 tvg-logo="https://ofertasclaro.com.br/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fofertasclaro%2FaC8OYSdWJ-7kScAq_TelecinePremium.webp%3Fauto%3Dformat%252Ccompress%26rect%3D0%252C14%252C266%252C150%26w%3D275%26h%3D155&w=1920&q=75" group-title="CANAIS | FILMES E SÉRIES",TC PREMIUM - SERVIDOR 2
+http://46.151.196.223:14349
+#EXTINF:-1 tvg-logo="https://ofertasclaro.com.br/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fofertasclaro%2FaC8OYSdWJ-7kScAq_TelecinePremium.webp%3Fauto%3Dformat%252Ccompress%26rect%3D0%252C14%252C266%252C150%26w%3D275%26h%3D155&w=1920&q=75" group-title="CANAIS | FILMES E SÉRIES",TC PREMIUM - SERVIDOR 3
+http://46.151.196.223:14350
+#EXTINF:-1 tvg-logo="https://ofertasclaro.com.br/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fofertasclaro%2FaC8PeCdWJ-7kScBi_TelecineCult.webp%3Fauto%3Dformat%252Ccompress%26rect%3D0%252C14%252C266%252C150%26w%3D275%26h%3D155&w=1920&q=75" group-title="CANAIS | FILMES E SÉRIES",TC CULT - SERVIDOR 1
+http://46.151.196.223:14335
+#EXTINF:-1 tvg-logo="https://www.programacao.tv/imagens/tc-touch.webp" group-title="CANAIS | FILMES E SÉRIES",TC TOUCH - SERVIDOR 1
+http://46.151.196.223:14355
+#EXTINF:-1 tvg-logo="https://www.programacao.tv/imagens/tc-touch.webp" group-title="CANAIS | FILMES E SÉRIES",TC TOUCH - SERVIDOR 2
+http://79.127.243.211:14652
+#EXTINF:-1 tvg-logo="https://www.programacao.tv/imagens/tc-touch.webp" group-title="CANAIS | FILMES E SÉRIES",TC TOUCH - SERVIDOR 3
+http://46.151.196.223:14356
+#EXTINF:-1 tvg-logo="https://filmandarts.com.br/theme/assets/fa_br_white_small_v2.png" group-title="CANAIS | FILMES E SÉRIES",FILM & ARTS - SERVIDOR 1
+https://cdn-5.nxplay.com.br/Film_Arts_Brasil_TK/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.urban.tv.br/canais/logo-urbanmovies.jpg" group-title="CANAIS | FILMES E SÉRIES",URBAN FILMES - SERVIDOR 1
+http://200.194.238.229:8383/live/urbanmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.urban.tv.br/canais/logo-urbanseries.jpg" group-title="CANAIS | FILMES E SÉRIES",URBAN SERIES - SERVIDOR 1
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6044f74f88a8d13430fb41e4caeca5f0.webp" group-title="CANAIS | FILMES E SÉRIES",NGT - SERVIDOR 1
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04b0e30e-c394-4e4f-b4bb-b0bb99c50e22/dguht0o-6322048e-8e3c-4a36-bcde-b760662245a3.png/v1/fill/w_1280,h_327/axn_logo_combination__2001___2015__by_vincerabina_dguht0o-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzI3IiwicGF0aCI6Ii9mLzA0YjBlMzBlLWMzOTQtNGU0Zi1iNGJiLWIwYmI5OWM1MGUyMi9kZ3VodDBvLTYzMjIwNDhlLThlM2MtNGEzNi1iY2RlLWI3NjA2NjIyNDVhMy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tSOE7Au9zmn8ohkcm4yWTGZKrbQ-FthozbcPkq2yAl4" group-title="CANAIS | FILMES E SÉRIES",AXN - SERVIDOR 1
+http://79.127.243.211:14569
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04b0e30e-c394-4e4f-b4bb-b0bb99c50e22/dguht0o-6322048e-8e3c-4a36-bcde-b760662245a3.png/v1/fill/w_1280,h_327/axn_logo_combination__2001___2015__by_vincerabina_dguht0o-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzI3IiwicGF0aCI6Ii9mLzA0YjBlMzBlLWMzOTQtNGU0Zi1iNGJiLWIwYmI5OWM1MGUyMi9kZ3VodDBvLTYzMjIwNDhlLThlM2MtNGEzNi1iY2RlLWI3NjA2NjIyNDVhMy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tSOE7Au9zmn8ohkcm4yWTGZKrbQ-FthozbcPkq2yAl4" group-title="CANAIS | FILMES E SÉRIES",AXN - SERVIDOR 2
+https://cdn-5.nxplay.com.br/AXN_TK/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/giYHPpUs_xAU8Tim6CKX2d-3_gg6YXIzMo5o1LuZVKJjJsEO8_cHhMSUYnQj-pFAedRQ" group-title="CANAIS | FILMES E SÉRIES",Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.programacao.tv/imagens/tv-sonata.webp" group-title="CANAIS | FILMES E SÉRIES",TV Sonata
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://televisao.tv/images/tv-jsid.jpg" group-title="CANAIS | FILMES E SÉRIES",TV J.SID
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBvKGt2w_yehXYMzMRnDBXXItm5l8huQC5gg&s" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL - SERVIDOR 2
+http://79.127.243.211:14623
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tellymix.co.uk/wp-content/uploads/2021/02/bbc-one-logo-b.jpg?resize=1500%2C844&ssl=1" group-title="CANAIS | INTERNACIONAIS",BBC 1 - SERVIDOR 1
+http://41.205.93.154/BBCONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tellymix.co.uk/wp-content/uploads/2022/01/bbc-three-logo.jpg?resize=1500%2C844&ssl=1" group-title="CANAIS | INTERNACIONAIS",BBC 3 - SERVIDOR 1
+http://41.205.93.154/BBCTHREE/index.m3u8
+#EXTINF:-1 tvg-logo="https://portalp1.com.br/wp-content/uploads/2020/06/Logotipo-da-SIC-TV.jpg" group-title="CANAIS | INTERNACIONAIS",SIC - SERVIDOR 1
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_0,y_0,h_733,w_1100/c_fill,w_860,h_573/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv" group-title="CANAIS | INTERNACIONAIS",RED BULL - SERVIDOR 1
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.vOxdL6h8SYaisnnmhHYzqgHaHx?w=158&h=180&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE - SERVIDOR 1
+https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_s6RXzLM9AeNxZZAqFUcmgijdkPApc_4slA&s" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET - SERVIDOR 1
+http://79.127.243.211:14370
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_s6RXzLM9AeNxZZAqFUcmgijdkPApc_4slA&s" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET - SERVIDOR 2
+https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/E-Entertainment-Television-logo-1990s.png?resize=152%2C320" group-title="CANAIS | DOCUMENTARIOS",E! - SERVIDOR 1
+http://46.151.196.223:14385
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/E-Entertainment-Television-logo-1990s.png?resize=152%2C320" group-title="CANAIS | DOCUMENTARIOS",E! - SERVIDOR 2
+http://46.151.196.223:14386
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXSUqKqXVA2U-hwjhXlv3RJyLPw5WKoE81zXtGJ5L5Dd3uF6ceATKAyJyeREQcPnyc8JtLQRFkC2XIdD634v3sC7DPO_lTmorzyh4ro8oaGPt8TfvotR6BQOvCq57_Stdw1YG2mdjS_jE/s1600/D.Turbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO - SERVIDOR 1
+http://79.127.243.211:14785
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXSUqKqXVA2U-hwjhXlv3RJyLPw5WKoE81zXtGJ5L5Dd3uF6ceATKAyJyeREQcPnyc8JtLQRFkC2XIdD634v3sC7DPO_lTmorzyh4ro8oaGPt8TfvotR6BQOvCq57_Stdw1YG2mdjS_jE/s1600/D.Turbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO - SERVIDOR 2
+https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO - SERVIDOR 3
+http://185.152.67.187:14367/
+#EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 1
+http://185.152.67.187:14343
+#EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 2
+http://79.127.243.211:14773
+#EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 3
+https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 4
+http://46.151.196.223:14074
+#EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 4
+http://45.178.215.69:8000/play/a055
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxFZoKSxgvCNzxW15ShiMHECx6QXdaQcLMDg2TGWlxUg2EgP9NEnCqKw0Yoai_pVSFqSUI0-rNqIBCbj3TfTnZxwCTXZyHs5fwPwkRo7lUD6goi14vhpOrOujZONkD6_fGRLVSLqfB7I/s1600/_0040_discovery_hh.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME & HEALTH - SERVIDOR 1
+http://185.152.67.187:14349
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxFZoKSxgvCNzxW15ShiMHECx6QXdaQcLMDg2TGWlxUg2EgP9NEnCqKw0Yoai_pVSFqSUI0-rNqIBCbj3TfTnZxwCTXZyHs5fwPwkRo7lUD6goi14vhpOrOujZONkD6_fGRLVSLqfB7I/s1600/_0040_discovery_hh.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME & HEALTH - SERVIDOR 1
+http://79.127.243.211:14769
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxFZoKSxgvCNzxW15ShiMHECx6QXdaQcLMDg2TGWlxUg2EgP9NEnCqKw0Yoai_pVSFqSUI0-rNqIBCbj3TfTnZxwCTXZyHs5fwPwkRo7lUD6goi14vhpOrOujZONkD6_fGRLVSLqfB7I/s1600/_0040_discovery_hh.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME & HEALTH - SERVIDOR 2
+https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2020/04/id-new-brand.jpg" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY ID
+https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062019/img_20190616_125035.png?Sh2c6.H4ophoFPCVogkr7oeHbgMMck.Y&itok=2YGpTwKI" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD - SERVIDOR 1
+http://79.127.243.211:14789
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062019/img_20190616_125035.png?Sh2c6.H4ophoFPCVogkr7oeHbgMMck.Y&itok=2YGpTwKI" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD - SERVIDOR 2
+https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/2021-HISTORY-LOGO-3K-RGB-750x375.jpg" group-title="CANAIS | DOCUMENTARIOS",HISTORY
+https://cdn-5.nxplay.com.br/HISTORY_TK/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://voxnews.com.br/wp-content/uploads/2022/02/H2-FLAT-RGB-300x300.jpg" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 - SERVIDOR 1
+https://cdn-5.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="receitas-fast" tvg-name="receitas-fast" tvg-logo="https://i.imgur.com/X8bDYyO.png" group-title="CANAIS | VARIEDADES",RECEITA FAST
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AH3uBDj.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK
+http://200.229.190.189:8001/play/a01g
+#EXTINF:-1 tvg-logo="https://linktr.ee/og/image/Canal_do_Criador.jpg" group-title="CANAIS | VARIEDADES",CANAL DO CRIADOR - SERVIDOR 1
+http://187.120.222.12:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vSKVrvH.png" group-title="CANAIS | VARIEDADES",NEW BRASIL - SERVIDOR 1
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 tvg-logo="https://www.petloverstv.com.br/storage/357/config/wOGMwRzqM8NFLREhXRIK6xmxvcSrJv4To8JFwehp.jpg" group-title="CANAIS | VARIEDADES",PET LOVERS TV - SERVIDOR 1
+https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1156295065.m3u8
+#EXTINF:-1 tvg-logo="https://entertainmentnow.com/wp-content/uploads/2025/08/hgtv-e1755799809427.jpeg" group-title="CANAIS | VARIEDADES",HGTV - SERVIDOR 1
+http://67.220.85.156:14537
+#EXTINF:-1 tvg-logo="https://mpegh.com/wp-content/uploads/2023/03/amazon-sat_background.png" group-title="CANAIS | VARIEDADES",AMAZON SAT - SERVIDOR 1
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6044f74f88a8d13430fb41e4caeca5f0.webp" group-title="CANAIS | VARIEDADES",NGT - SERVIDOR 1
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="CANAIS | VARIEDADES",NBT - SERVIDOR 1
+https://isaocorp.cloudecast.com/nbt/index.m3u8
+#EXTINF:-1 tvg-logo="https://catve.com/2022/assets/images/catve_bottom.webp" group-title="CANAIS | VARIEDADES",CATVE - SERVIDOR 1
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://catve.com/2022/assets/images/catve_bottom.webp" group-title="CANAIS | VARIEDADES",CATVE PARANÁ - SERVIDOR 1
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-wbf1P_idNc4/TlkvNwg3j2I/AAAAAAAADPs/JUkDgc7eTE4/w1200-h630-p-k-no-nu/rede+super.jpg" group-title="CANAIS | VARIEDADES",REDE SUPER- SERVIDOR 1
+http://168.205.87.198:8555/live/1492/123456/163.m3u8
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="CANAIS | VARIEDADES", LOVE NATURE - SERVIDOR 1
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="CANAIS | VARIEDADES", PLUTO TV NATUREZA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=271&deviceId=5f1213ba0ecebc00070e170f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://www.jornalafolha.com.br/uploads/images/2025/07/tv-parana-turismo-busca-novos-conteudos-audiovisuais-sobre-o-estado-inscricoes-estao-abertas-02c4.webp" group-title="CANAIS | VARIEDADES", PARANÁ TURISMO
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/thumb-top-mix-tv.png" group-title="CANAIS | MÚSICA",TOP MIX BRASIL - SERVIDOR 1
+https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.urban.tv.br/canais/logo-urbankids.jpg" group-title="CANAIS | INFANTIL",URBAN KIDS - SERVIDOR 1
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.urban.tv.br/canais/logo-urbankids.jpg" group-title="CANAIS | INFANTIL",MR. BEAN ANIMAÇÃO - SERVIDOR 1
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
+#EXTINF:-1 tvg-logo="https://www.logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="CANAIS | INFANTIL",NICKJR - SERVIDOR 1
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/portaldatv.com.br/wp-content/uploads/2025/04/tv-cultura-programacao.png?fit=640%2C360&ssl=1" group-title="CANAIS | ABERTOS",TV CULTURA - SERVIDOR 1
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/portaldatv.com.br/wp-content/uploads/2025/04/tv-cultura-programacao.png?fit=640%2C360&ssl=1" group-title="CANAIS | ABERTOS",TV CULTURA - SERVIDOR 2
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
+#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="CANAIS | ABERTOS",SBT - SERVIDOR 1
+http://187.120.222.12:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jornaldachapada.com.br/wp-content/uploads/2012/06/tv-bahia.jpg?w=630&ssl=1" group-title="CANAIS | ABERTOS",GLOBO BA - SERVIDOR 1
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/76/80/cb768057ae5472d7b1f1f17ce60737ed.jpg" group-title="CANAIS | ABERTOS",GLOBO RJ - SERVIDOR 1
+http://79.127.238.228:14217/
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/76/80/cb768057ae5472d7b1f1f17ce60737ed.jpg" group-title="CANAIS | ABERTOS",GLOBO RJ - SERVIDOR 2
+http://gerenciar.vivatele.com/viva_padrao/viva2384/1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/76/80/cb768057ae5472d7b1f1f17ce60737ed.jpg" group-title="CANAIS | ABERTOS",GLOBO SP - SERVIDOR 1
+http://200.77.176.130:8000/udp/224.0.0.1:49152
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS",RECORD SP - SERVIDOR 1
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS",RECORD SP - SERVIDOR 3
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS",RECORD SC - SERVIDOR 1
+http://187.120.222.12:8000/play/a06k/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.band.com.br/image/2025/06/25/band-campinas-165533_400x300.webp" group-title="CANAIS | ABERTOS",BAND SP - SERVIDOR 2
+http://187.120.222.12:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/original/bandnews-logo_bc6f60bb73800d02c05386c5810d73e6023376d5.jpeg" group-title="CANAIS | NOTICIAS",BAND NEWS - SERVIDOR 1
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="CANAIS | NOTICIAS",SBT NEWS - SERVIDOR 1
+https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.tpArfNgI7BfZt2lKJp9RkAHaHa?rs=1&pid=ImgDetMain" group-title="CANAIS | NOTICIAS",GLOBO NEWS - SERVIDOR 1
+http://79.127.238.228:14093
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE  - SERVIDOR 1
+http://79.127.238.228:14157
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE  - SERVIDOR 2
+http://45.235.0.78/Premiere_Clubes/index.m3u8
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 2  - SERVIDOR 1
+http://79.127.243.211:14481
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 2  - SERVIDOR 2
+http://45.235.0.78/Premiere_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 3  - SERVIDOR 1
+http://79.127.243.211:14485
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 3  - SERVIDOR 2
+http://45.235.0.78/Premiere_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 4  - SERVIDOR 1
+http://79.127.243.211:14489
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 4  - SERVIDOR 2
+http://45.235.0.78/Premiere_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 5  - SERVIDOR 1
+http://79.127.243.211:14493
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 5  - SERVIDOR 2
+http://45.235.0.78/Premiere_5/index.m3u8
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 6  - SERVIDOR 1
+http://79.127.243.211:14497
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 6  - SERVIDOR 2
+http://45.235.0.78/Premiere_6/index.m3u8
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 7  - SERVIDOR 1
+http://79.127.243.211:14501
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 7  - SERVIDOR 1
+http://45.235.0.78/Premiere_7/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png" group-title="CANAIS | ESPORTES",PARAMOUNT+ - SERVIDOR 1
+http://79.127.243.211:14649
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFjqzRGUpN1bU4HthvaZFLSoiNhXpNGIn4rB-qH--QSca48KLqkh2ulPubLrxc8yMrhVQ&usqp=CAU" group-title="CANAIS | ESPORTES",CAZÉ TV - SERVIDOR 1
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/programacao/images/d/dc/ESPN_4_Logo_tipo.jpg/revision/latest?cb=20220117191627&path-prefix=pt-br" group-title="CANAIS | ESPORTES",ESPN 4 - SERVIDOR 1
+http://46.151.196.223:14450/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/programacao/images/d/dc/ESPN_4_Logo_tipo.jpg/revision/latest?cb=20220117191627&path-prefix=pt-br" group-title="CANAIS | ESPORTES",ESPN 4 - SERVIDOR 2
+http://79.127.243.211:14514/
+#EXTINF:-1 tvg-logo="https://cms74.hub.directvgo.com/documents/1961808/8843358/SKY-Canais-Adicionais-ESPN-Background.png" group-title="CANAIS | ESPORTES",ESPN 6 - SERVIDOR 1
+http://46.151.196.223:14460
+#EXTINF:-1 tvg-logo="https://cms74.hub.directvgo.com/documents/1961808/8843358/SKY-Canais-Adicionais-ESPN-Background.png" group-title="CANAIS | ESPORTES",ESPN 6 - SERVIDOR 2 
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+#EXTINF:-1 tvg-logo="https://cms74.hub.directvgo.com/documents/1961808/8843358/SKY-Canais-Adicionais-ESPN-Background.png" group-title="CANAIS | ESPORTES",ESPN 6 - SERVIDOR 3 
+https://cdn-5.nxplay.com.br/ESPN_6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/portaldatv.com.br/wp-content/uploads/2025/10/programacao-espn-5.jpg" group-title="CANAIS | ESPORTES",ESPN 5 - SERVIDOR 1
+http://46.151.196.223:14455
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="CANAIS | ESPORTES",ESPN 5 - SERVIDOR 2
+https://cdn-5.nxplay.com.br/ESPN_5/index.m3u8
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/10/ESPN3_Logo_Resize2.jpg" group-title="CANAIS | ESPORTES",ESPN 3 - SERVIDOR 1
+http://46.151.196.223:14442
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/10/ESPN3_Logo_Resize2.jpg" group-title="CANAIS | ESPORTES",ESPN 3 - SERVIDOR 2
+https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="CANAIS | ESPORTES",ESPN 2 - SERVIDOR 1
+http://46.151.196.223:14553
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="CANAIS | ESPORTES",ESPN 2 - SERVIDOR 2
+https://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="CANAIS | ESPORTES",ESPN - SERVIDOR 1
+http://46.151.196.223:14366
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="CANAIS | ESPORTES",ESPN - SERVIDOR 2
+https://cr7v.short.gy/live25/spn/Index.m3u8
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="CANAIS | ESPORTES",ESPN - SERVIDOR 3
+https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="CANAIS | ESPORTES",ESPN - SERVIDOR 4
+https://cdn-5.nxplay.com.br/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-NqjM4CiTZiqM_COMejCQoDzybI4j19khJQ&s" group-title="CANAIS | ESPORTES",COMBATE SERVIDOR 1
+http://46.151.196.223:14468
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-NqjM4CiTZiqM_COMejCQoDzybI4j19khJQ&s" group-title="CANAIS | ESPORTES",COMBATE SERVIDOR 2
+http://79.127.243.211:14449
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="CANAIS | ESPORTES",SPORTV SERVIDOR 1
+https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="CANAIS | ESPORTES",SPORTV SERVIDOR 2
+http://46.151.196.223:14286
+#EXTINF:-1 tvg-logo="https://teleguiado.com/wp-content/uploads/2022/08/SPORTV-2.png" group-title="CANAIS | ESPORTES",SPORTV 2 SERVIDOR 1
+http://79.127.243.211:14469
+#EXTINF:-1 tvg-logo="https://teleguiado.com/wp-content/uploads/2022/08/SPORTV-3.png" group-title="CANAIS | ESPORTES",SPORTV 3 SERVIDOR 1
+http://79.127.243.211:14473
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "CANAIS | ESPORTES",SPORTV 3 SERVIDOR 2
+https://cr7v.short.gy/FuncionaSoquandoTemF1/ManoTVfree.m3u8
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="CANAIS | ESPORTES",GE TV SERVIDOR 1
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="CANAIS | ESPORTES",GE TV SERVIDOR 2
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000002HF_20230809T053511SQUARE.png_20230809053512.png" group-title="CANAIS | ESPORTES",FIFA PLUS
+https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-03/0495d544-8c52-45a3-aa04-59a5e8a47065.webp" group-title="CANAIS | 24 HORAS",SOLO MIO
+https://watch.brstream.cc/m3u8/12/ead6d4ad482d8a338ec1de8a26504e97/master.txt?s=1&id=37490&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2025-11/31ea171e-b446-4be2-bf70-5c18d5a0b79b.webp" group-title="CANAIS | 24 HORAS",SONHADOR AMERICANO
+https://watch.brstream.cc/m3u8/27/9b784280afc36c74b271d8af5ec9e534/master.txt?s=1&id=34805&cache=1
+#EXTINF:-1 tvg-logo="https://img.observatoriodatv.com.br/wp-content/uploads/2025/08/Imagem-1536x864.jpeg.webp" group-title="CANAIS | 24 HORAS",THE WALKING DEAD
+https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.observatoriodatv.com.br/wp-content/uploads/2025/08/Imagem-1536x864.jpeg.webp" group-title="CANAIS | 24 HORAS",ROOKIE BLUE
+https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.observatoriodatv.com.br/wp-content/uploads/2025/08/Imagem-1536x864.jpeg.webp" group-title="CANAIS | 24 HORAS",MASTERCHEF SERVIDOR 1
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay_Rights/Masterchef_Brasil_BR/Masterchef_Brasil.m3u8
+#EXTINF:-1 tvg-logo="https://img.observatoriodatv.com.br/wp-content/uploads/2025/08/Imagem-1536x864.jpeg.webp" group-title="CANAIS | 24 HORAS",MASTERCHEF SERVIDOR 2
+https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E01
+https://watch.brstream.cc/m3u8/27/016230062a7d5ef5bb73430097f451e5/master.txt?s=1&id=36440&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E02
+https://watch.brstream.cc//m3u8/27/384af1de9d1038b254ec463714fbd461/master.txt?s=1&id=36441&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E03
+https://watch.brstream.cc/m3u8/27/4c204cbf00fda6fac24fa9749ba9ca08/master.txt?s=1&id=36438&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E04
+https://watch.brstream.cc/m3u8/27/9e03f2ea9c3cb95daddc82bc1ffce86a/master.txt?s=1&id=36439&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E05
+https://watch.brstream.cc/m3u8/27/40dcade0986efb728091792e3c538e6c/master.txt?s=1&id=36436&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E06
+https://watch.brstream.cc/m3u8/27/9ffd9d410fda83d9d2371d1657f73b50/master.txt?s=1&id=36656&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E07
+https://watch.brstream.cc/m3u8/27/c58445494b2ebb539045e034fd00d80b/master.txt?s=1&id=36661&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E08
+https://watch.brstream.cc/m3u8/27/1e2abba2db0a741cf5f8cebd33605a07/master.txt?s=1&id=36654&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E09
+https://watch.brstream.cc/m3u8/27/9c8c3c20976adbc398d5366a0cd2f817/master.txt?s=1&id=36660&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E10
+https://watch.brstream.cc/m3u8/27/45aea7db0f03fecc77f969bd296cdc62/master.txt?s=1&id=36659&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E11
+https://watch.brstream.cc/m3u8/27/d1bf0a6d37213953ccb7bb20ec77142d/master.txt?s=1&id=36799&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E12
+https://watch.brstream.cc/m3u8/27/e06df9528a78fdb238415f538212ea45/master.txt?s=1&id=36797&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E13
+https://watch.brstream.cc/m3u8/27/0319d8c48c991a68588b363d776d2720/master.txt?s=1&id=36796&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E14
+https://watch.brstream.cc/m3u8/27/12e8bc147311e2f5bf7ba36fd0039a59/master.txt?s=1&id=36794&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E15
+https://watch.brstream.cc/m3u8/27/e88ee0686126767dc6a2abbe746c7b60/master.txt?s=1&id=36795&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E16
+https://watch.brstream.cc/m3u8/27/d7cbbf830501a1332d11174fd90af4db/master.txt?s=1&id=37063&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E17
+https://watch.brstream.cc/m3u8/27/cf4012623d75c1e1f73eef47b4ec918d/master.txt?s=1&id=37062&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E18
+https://watch.brstream.cc/m3u8/27/d7bf523a314c5d650e9b49cd3788cc82/master.txt?s=1&id=37061&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E19
+https://watch.brstream.cc/m3u8/27/932213ccbd5b5e457da6f21df3c1f580/master.txt?s=1&id=37060&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E20
+https://watch.brstream.cc/m3u8/27/7924086849cceb73a55ae2ef21f5f6bd/master.txt?s=1&id=37071&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E21
+https://watch.brstream.cc/m3u8/27/73551d91f9caef395e7878a758b3b040/master.txt?s=1&id=37217&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E22
+https://watch.brstream.cc/m3u8/27/092cb2cdeefc8741fd846537bcf23044/master.txt?s=1&id=37216&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E23
+https://watch.brstream.cc/m3u8/27/9800d02812911707fe048d72a9bef32a/master.txt?s=1&id=37219&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E24
+https://watch.brstream.cc/m3u8/27/4bb9b27e427755a85d3e46ba97619f06/master.txt?s=1&id=37218&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E25
+https://watch.brstream.cc/m3u8/27/b47b84be1e32ada197b34168a7c88052/master.txt?s=1&id=37220&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E26
+https://watch.brstream.cc/m3u8/27/e5b01564847bc01a61c4997844518d7b/master.txt?s=1&id=37369&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E27
+https://watch.brstream.cc/m3u8/27/6a8de3355c4f1b79bab7f9375c77aee8/master.txt?s=1&id=37367&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E28
+https://watch.brstream.cc/m3u8/27/eb840fce767293ed769b0e5ac37d4554/master.txt?s=1&id=37366&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E29
+https://watch.brstream.cc/m3u8/27/fa8506ddd389075373813af8893f6130/master.txt?s=1&id=37365&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E30
+https://watch.brstream.cc/m3u8/27/12fd753eab9b00913e1a027949de68a8/master.txt?s=1&id=37370&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E31
+https://watch.brstream.cc/m3u8/27/f24f96d246285d951fe203d06473ff09/master.txt?s=1&id=37589&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E32
+https://watch.brstream.cc/m3u8/27/030a77a5a055e21b0f71060aeeaca368/master.txt?s=1&id=37590&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E33
+https://watch.brstream.cc/m3u8/27/8d9efdc11d3f363405846f3c09c5567f/master.txt?s=1&id=37595&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E34
+https://watch.brstream.cc/m3u8/27/e6effb67cd9e11866f4b9c5b6ed8c1b7/master.txt?s=1&id=37597&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E35
+https://watch.brstream.cc/m3u8/27/e0d90dcc491a3323763c77d1dff7248b/master.txt?s=1&id=37583&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E36
+https://watch.brstream.cc/m3u8/27/649927d37f4afecb602b470b820de6d5/master.txt?s=1&id=37883&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E37
+https://watch.brstream.cc/m3u8/27/d40031c3a5236b7bf6999aa45a42a001/master.txt?s=1&id=37882&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E38
+https://watch.brstream.cc/m3u8/27/b58c93eece1575ea00d1f018c0bedeb4/master.txt?s=1&id=37881&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E39
+https://watch.brstream.cc/m3u8/27/fbcd066356f64837ee00966de10a53bf/master.txt?s=1&id=37880&cache=1
+#EXTINF:-1 tvg-logo="https://filmesdanet.net/uploads/posts/2026-02/ec0015d2-e4db-4896-b241-693501dbf72d.webp" group-title="CANAIS | 24 HORAS",DONA BEJA - S01E40
+https://watch.brstream.cc/m3u8/27/920f6af4188c97b6c0e6e01abb9a0411/master.txt?s=1&id=37879&cache=1
+
+
+
+
+
+
+
+############################################################################  FILMES ##############################################################################################
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/05/17/16/39/5064862.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",SPIDERHEAD ‧ 2022- 1h 47m
+https://drive87.gilliardgois2086162.workers.dev/0:/Filmes/%40Spiderhead%202022%20WEB-DL%201080p%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ3jDHseJ7uMM6TY_8b7POAOMbjV2a43gP-w&usqp=CAU" group-title="FILMES | FICÇÃO CIENTÍFICA",2012 - 2009 -  2h 38m
+https://drive218.gilliardgois2086162.workers.dev/0:/Filmes/2012%20dublado.720p.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/18/20/56/273919.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",EFEITO BORBOLETA - 2004 - 2 horas
+https://drive209.gilliardgois210.workers.dev/0:/Efeito%20Borboleta%201.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/79/10/19961581.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",EFEITO BORBOLETA 2 ‧ 2006 -  1h 35m
+https://drive209.gilliardgois210.workers.dev/0:/efeito%20borboleta%202.mp4
+#EXTINF:-1 tvg-logo="https://dvdefilme.files.wordpress.com/2015/04/efeito_borboleta_3_-_revelae7f5es_c-709763_jpg_.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",EFEITO BORBOLETA 3: REVELAÇÃO ‧ 2009 - 1h 30m
+https://drive209.gilliardgois210.workers.dev/0:/efeito%20borboleta%203.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d5AV8UQEd7y7VZ4ZdiRTkC5TLTj.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",SINAIS - 2002 - 1h 46m
+https://drive209.gilliardgois210.workers.dev/0:/Sinais%20-%202002%20Dublado.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/91/40/36/20143627.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",MINORITY REPORT - A NOVA LEI - 2002 - 2h 25m
+https://drive209.gilliardgois210.workers.dev/0:/Minority%20Report%20-%20A%20Nova%20Lei%20%5B2002%5D%20-%20Dublado%20%28Series%20Zoiudo%29
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQekil77coGrycD4MfHmbaEVTDRHyX1yIpv2A&usqp=CAU" group-title="FILMES | FICÇÃO CIENTÍFICA",O PREÇO DO AMANHÃ - 2011 - 1h 49m
+https://drive213.gilliardgois2086162.workers.dev/0:/Filmes/O%20Pre%C3%A7o%20do%20Amanh%C3%A3%20%282011%29%20BrRip%201080p%20Dual%20Audio%20-%201046.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAdOvzoTnUSsJJ4g0MECP3-7vh_q_gB-0FCg&usqp=CAU" group-title="FILMES | FANTASIA",ANIMAIS FANTÁSTICOS:OS SEGREDOS DE DUMBLEDORE - 2022 ‧ 2h 23m
+https://drive128.gilliardgois210.workers.dev/0:/%40Animais.Fantasticos.Os.Segredos.de.Dumbledore.2022.1080p.mkv
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU7qUZTAd_cZ0xD-SWM7a8HPdh36rKNZ7WFQ&usqp=CAU" group-title="FILMES | TERROR",PASSAGEIRO 666 - 2021 - 1h 17m
+https://adrive183.gilliardgois210.workers.dev/0:/Filmes/C%C3%B3pia%20de%20Passageiro.666.Dublado.1080p.2022.WWW.FREEFILMES.NET.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Albergue 3 2011"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQczaL438hJ9GwSzjP45hx_zs-H3QcAWCbYrmimwdHRGTNKFA2pOiiF4AG1-xRJOnw3d8w&usqp=CAU"group-title="FILMES | TERROR",O ALBERGUE 3 - 2011 - 1h 28m
+https://ia801609.us.archive.org/25/items/o-albergue-3-2011-hostel-part-iii/O%20Albergue%203%202011%20%28Hostel%20Part%20III%29.mp4
+#EXTINF:-1 tvg-logo="https://assetsgn.nowonline.com.br/assets/p19664396_v_v12_ae.jpg" group-title="FILMES | TERROR",O GRANDE TUBARÃO BRANCO - 2021 - 1h 30min
+https://drive209.gilliardgois210.workers.dev/0:/O%20grandeTubar%C3%A3oBranco.2021.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/03/03/09/42/5803378.jpg" group-title="FILMES | TERROR",O REBANHO - 2021 - 1h 36m
+https://gilliardgois210.gilliardgois210.workers.dev/0:/C%C3%B3pia%20de%20O.Rebanho.2021.720p.DUBLADO-UNIVERSO3GP.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNSTFIpBhnO-cu5KZm4fdBbdidXxk-H9a3g&usqp=CAU" group-title="FILMES | TERROR",PÂNICO NA NEVE - 2010 - 1h 34m
+https://www.googleapis.com/drive/v3/files/1xP-SURpqdH5FgWNHZoctrpyxNyUwGW8l?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+
+#EXTINF:-1 tvg-logo="https://aventurasnahistoria.com.br/wp-content/uploads/2025/10/WINC10_20240923_00084_R4-800x450.jpg" group-title="FILMES | SUSPENSE",A MULHER NA CABINE 10 2025 -  1h 32m
+https://drive215.gilliardgois2086162.workers.dev/0:/A%20Mulher%20na%20Cabine%2010%202025%20WEB-DL%201080p%20x264%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw8sv-5gFuGji-OS3HSIGKcyka1ptlARc-8A&usqp=CAU" group-title="FILMES | SUSPENSE",MORTE NO NILO ‧ 2022 -  2h 7m
+https://adrive183.gilliardgois210.workers.dev/0:/Filmes/m0rt6%20n0%20n1l0.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pz5ZrXSymSrVybrKnTwiPQ4Cg1U.jpg" group-title="FILMES | SUSPENSE",VINGANÇA SOLITÁRIA - 2023 - 1h 27m
+https://adrive183.gilliardgois210.workers.dev/0:/Filmes/%40Vinganca.Solitaria.Dublado.1080p.2022.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNWPvU4DHaNohHE3Bk4JCATjnN19-6qkupeA&usqp=CAU" group-title="FILMES | FANTASIA",GUARDIÕES DO TEMPO - 2022 - 99m
+https://drive87.gilliardgois2086162.workers.dev/0:/Filmes/C%C3%B3pia%20de%20Guardioes.do.Tempo.Dublado.720p.2022.WWW.FREEFILMES.NET.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGZmUIKg9vjD3lLn3mmFcoS1uYe6R4pI8iQ&usqp=CAU" group-title="FILMES | FANTASIA",BRANCA DE NEVE E O CAÇADOR - 2012 - 2h 7m
+https://www.googleapis.com/drive/v3/files/1-jxmfJ3z4M-n4jB7gTM6ezXv3TSurQrr?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl4OhacomZd8iQ9_LM4STXfX4T5DLdY6ZA7g&usqp=CAU" group-title="FILMES | FANTASIA",O CAÇADOR E A RAINHA DO GELO - 2016 ‧ 2 horas
+https://www.googleapis.com/drive/v3/files/1Q9TR9PmGcyr6TNNs96eTut0I9xP8pi1a?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThvRilICDImA7OKEftrbjfk6YD8oKovkhxw&usqp=CAU" group-title="FILMES | AÇÃO",PESADELO NAS ALTURAS - 2021 - 1h 32m
+https://drive218.gilliardgois2086162.workers.dev/0:/Filmes/%40Pesadelo.nas.Alturas.2021.720p.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/05/05/16/52/134956.jpg" group-title="FILMES | AÇÃO",13º DISTRITO - 2014 - 1h 30m
+https://gilliardgois210.gilliardgois210.workers.dev/0:/C%C3%B3pia%20de%2013%C2%BA%20Distrit0%20DublAd0
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/07/09/21/18/3544259.jpg" group-title="FILMES | AÇÃO",JUSTIÇA EM FAMÍLIA - 2021 - 1h 50m
+https://gilliardgois210.gilliardgois210.workers.dev/0:/C%C3%B3pia%20de%20Justica.em.Fam%C3%ADlia.2021.720P.Dub.Filmesmp4.com.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcnfZyzQAKIlCu8KVCu_T-EWGF48zA6duMCQ&usqp=CAU" group-title="FILMES | AÇÃO",MISSÃO BABILÔNIA - 2008 - 1h 41m 
+https://www.googleapis.com/drive/v3/files/10213ByOFVhka0aEIQcLsKSgCObAFnGar?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNd4lmEREWBL2juXwbS62b-C3Z1wSq4DP9Lw&usqp=CAU" group-title="FILMES | AÇÃO",POSEIDON - 2016- 1h 38m
+https://www.googleapis.com/drive/v3/files/1ephg3n-4_0-2pJJz9eicjI9d-VPP6Ojb?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfFK7fq8bJr0O9WzETFdFUtrVkzZtZFhFBSA&usqp=CAU" group-title="FILMES | DRAMA",ATÉ O ÚLTIMO HOMEM - 2016 - 131m
+https://filmes208.gilliardgois2086162.workers.dev/0:/C%C3%B3pia%20de%20%C3%9Altimo%20homem%202017.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlJT2zfHkgkbD_OuNk3hiqoJ-445tQlC1m6A&usqp=CAU" group-title="FILMES | DRAMA",A VIDA SECRETA DAS ABELHAS ‧ 2008 -  1h 54m
+https://drive174.gilliardgois2086162.workers.dev/0:/A%20Vida%20Secreta%20das%20Abelhas%20%282008%29.mkv
+#EXTINF:-1 tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/22867-cartaz.jpg" group-title="FILMES | DRAMA",FORD vs FERRARI - 2019 ‧ 2h 32m
+https://drive209.gilliardgois210.workers.dev/0:/Ford.vs.Ferrari.2020.720p.BluRay.x264.mp4
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_672237-MLB41483969024_042020-O.jpg" group-title="FILMES | DRAMA",POR LUGARES INCRÍVEIS - 2020 - 1h 48m
+https://drive209.gilliardgois210.workers.dev/0:/Por.Lugares.Incriveis.2020.720p.DUBLADO-UNIVERSO3GP.COM.BR.mp4
+#EXTINF:-1 tvg-logo="https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2017/02/c7896b3ece6e67d5cd22781699255831.jpg" group-title="FILMES | DRAMA",A ÁRVORE DA VIDA - 2011 - 2h 18m
+https://drive209.gilliardgois210.workers.dev/0:/%C3%81rvore%20da%20Vida.mp4
+#EXTINF:-1 tvg-logo="https://www.californiafilmes.com.br/wp-content/uploads/2020/06/The-Tunnel_Poster_pt-BR.jpg" group-title="FILMES | DRAMA",O TÚNEL - 2020 - 2h 06m
+https://drive211.gilliardgois2086162.workers.dev/0:/C%C3%B3pia%20de%20O%20T%C3%BAnel%20Dublado.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/08/17/22/59/2073751.jpg" group-title="FILMES | DRAMA",ALFA - 2018 - 1h 36m
+https://drive212.gilliardgois2086162.workers.dev/0:/4LF4.2O22.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsEGbnIZEfOodxUAWQXjHBxsoEqxm9-QmrQ&usqp=CAU" group-title="FILMES | DRAMA",CREED: NASCIDO PARA LUTAR - 2016 - 2h 14m
+https://www.googleapis.com/drive/v3/files/1nqQl3Ra3VPa6Ydp4xalGp7diIHbULGBA?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/11/01/23/39/0758382.jpg" group-title="FILMES | DRAMA",CREED 2 - 2019 - 2h 10m
+https://www.googleapis.com/drive/v3/files/16FJeh_-hmw20K8YPsE8UGB3io6Kk5bNl?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP1A9jymab80P2WIxLvue8tYQJVw1hSmUSBw&usqp=CAU" group-title="FILMES | AVENTURA", CIDADE PERDIDA - 2022 - 1h 52m
+https://drive215.gilliardgois2086162.workers.dev/0:/Filmes/c1d4d3perd2d4.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.universalpics.com.br/tl_files/content/movies/bad_guys/gallery/01.jpg" group-title="FILMES | COMÉDIA",OS CARAS MALVADOS - 2022 - 1h 40m
+https://dive214.gilliardgois2086162.workers.dev/0:/Os%20Caras%20Malvados%202%202025%20WEB-DL%201080p%20x264%20DUAL%205.1.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/06/03/13/41/4557063.jpg" group-title="FILMES | COMÉDIA",O HOMEM DE TORONTO - 2022 - 1h 50m
+https://gilliardgois210.gilliardgois210.workers.dev/0:/C%C3%B3pia%20de%20O.Homem.de.Toronto.Dublado.1080p.2022.WWW.FREEFILMES.NET.mkv
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5364c5c32d9df14ed3d0eae5f1561d1135f3106d7a80bd5a244ba79f5b49a2fe._RI_V_TTW_.jpg" group-title="FILMES | SUSPENSE",ATRAÇÃO PERIGOSA - 2010 -  2h 4m
+https://drive209.gilliardgois210.workers.dev/0:/Atra%C3%A7%C3%A3o%20Violenta.mkv?
+
+
+#EXTINF:-1 tvg-logo="https://assetsgn.nowonline.com.br/assets/p13443190_v_v8_bd.jpg" group-title="FILMES | THRILLER",HACKER - TODO CRIME TEM UM INÍCIO - 2016 - 1h 35m
+https://drive209.gilliardgois210.workers.dev/0:/Hacker.Todo.Crime.Tem.um.In%C3%ADcio.2017.1080p.DUAL.mp4
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2020/03/extraction_main_vertical_rgb_pt-br-4193700095.jpg" group-title="FILMES | THRILLER",RESGATE - 2020 - 1h 56m
+https://drive209.gilliardgois210.workers.dev/0:/Resgate.2020.720p.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKxIGxsu9Pof9c0CmkM0sqV5zLZmxE5wwCMQ&usqp=CAU" group-title="FILMES | THRILLER",FUGA DA MORTE - 2021 - 1h 36m
+https://adrive183.gilliardgois210.workers.dev/0:/Filmes/Fug4.d4.M0rt6-2021%20BluRay%201080p%20DUAL%205.1.mkv
+
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/94/82/78/20359454.jpg" group-title="FILMES | ROMANCE",UM AMOR PRA RECORDAR - 2002 - 1h 42m
+https://drive209.gilliardgois210.workers.dev/0:/Um%20Amor%20Para%20Recordar%202002%20Dublado%201080p.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTWod8AlC7PwR1teydLwrOHU66L4oDlZKE2A&usqp=CAU" group-title="FILMES | ROMANCE",AMOR DE REDENÇÃO (Legendado) - 2022 - 2h 14m
+https://drive87.gilliardgois2086162.workers.dev/0:/Filmes/%40Am0r-d3-Reden%C3%A7%C3%A30.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB0AY5LKQoFovtqe76k3EbT4k5zW-Egf98Q&usqp=CAU" group-title="FILMES | ROMANCE",OLÁ, ADEUS E TUDO MAIS - 2022 - 1h 24m
+https://drive211.gilliardgois2086162.workers.dev/0:/0l%C3%A1.Ad6us.3.Tud0.M41s.%282022%29.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/06/07/18/53/4362759.jpg" group-title="FILMES | AVENTURA",A FERA DO MAR - 2022 - 1h 55m
+https://drive205.gilliardgois2086162.workers.dev/0:/C%C3%B3pia%20de%20A%20Fera%20do%20Mar%202022%201080p%20WEB-DL%20DUAL%205.1.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fv7wqGwQDw8-AbLffELhRnz6FuTlaoSG8w&usqp=CAU" group-title="FILMES | ANIMAÇÃO",TOM E JERRY NO VELHO OESTE - 2022 - 1h 28m
+https://drive205.gilliardgois2086162.workers.dev/0:/C%C3%B3pia%20de%20Tom.e.Jerry.no.Velho.Oeste.Dublado.1080p.2022.WWW.FREEFILMES.NET.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDncKh1viO4FLBQa44bAlI9328qJOxpJnJlA&usqp=CAU" group-title="FILMES | ANIMAÇÃO",MORTAL KOMBAT LEGENDS - A BATALHA DOS REINOS - 2021 - 89m
+https://www.googleapis.com/drive/v3/files/1re4sqoe5WwL9YLKPyRIyrM9shjzK7vGG?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/21/07/29/10/27/4435745.jpg" group-title="FILMES | ANIMAÇÃO",FRANGOELHO E O HAMSTER DAS TREVAS - 2022 - 1h 31min
+https://filmes208.gilliardgois2086162.workers.dev/0:/%40Frangoelho%20e%20o%20Hamster%20das%20Trevas%202022%20WEB-DL%201080p%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4cxnB_dnR168G9qU-05-_W-mYi_3OBgfBYA&usqp=CAU" group-title="FILMES | ANIMAÇÃO",STAND BY ME DORAEMON - 2014 - 1h 36m
+https://adrive183.gilliardgois210.workers.dev/0:/Filmes/STAND%20BY%20ME%20D0r46m0n%202.2020%20BluRay%201080p%20x265%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/95/11/46/20396009.jpg" group-title="FILMES | ANIMAÇÃO",AS AVENTURAS DE TADEO - 2012 - 1h 32m
+https://www.googleapis.com/drive/v3/files/1erHBx3-ikOEICSmCzr6vDH5yT9Aux0vf?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/17/11/28/18/50/0330549.jpg" group-title="FILMES | ANIMAÇÃO",AS AVENTURAS DE TADEO 2: O SEGREDO DO REI MIDAS - 2017 - 1h 25m
+https://www.googleapis.com/drive/v3/files/1NzM-lV0fUxwqszVdlXWWfBMFGwsjlzS6?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtOODGeuupRKbOeF-6e33-PO1aLicDZ_XK3Q&usqp=CAU" group-title="FILMES | ANIMAÇÃO",A ERA DO GELO: AS AVENTURAS DE BUCK WILD - 2022 - 1h 22m
+https://www.googleapis.com/drive/v3/files/1XF4mWv7ghoBxYqVwrpKANSqalobKwPR5?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/11/18/16/57/5746772.jpg" group-title="FILMES | ANIMAÇÃO",RED: CRESCER É UMA FERA - 2022 - 1h 48m
+http://66.70.176.169:8880/movie/daniel1128/1128daniel/107495.mp4?token=HhsNA0IKEQIaVVZUB1MAUAkJCQAGB1MCBQ9QAQdbBAsHClVVBwNVCgxHSRVFFhcBWVVvUFNGXAYAD1IKAU8XRxZcFz1YBhECGl1SBAJUR0gaTFlUUkZcBgYMXgEGWw0KVhVHElgGEQIaVFAABlFHSBpdSE1SFghWXGcCVkIKVldHA0dAHUBcVmcBAFpXDAFGAhoAGxtGD0RAGlxdQQ9ZHkdbDBZDA0ddGl9HBg5bUEYUGlNWQgoSRUkaXBF2MRceR1wdFlQMQFFXC0cNFA8VUBoUElBEOxRSQ0wUVlUOUEBHA0dSE04RVVkdOlRZDAsBW0xZVlkXRA0SCUQfFg5aXAxNChBuElpcGl8LQloOGA==
+
+
+
+#EXTINF:-1 tvg-logo="https://sm.ign.com/ign_br/screenshot/default/1_a1sz.png" group-title="FILMES | SUPER-HERÓIS",DOUTOR ESTRANHO NO MULTIVERSO DA LOUCURA - 2022 - 2h 6m
+https://gilliardgois210.gilliardgois210.workers.dev/0:/C%C3%B3pia%20de%20Doutor%20Estranho%20no%20Multiverso%20da%20Loucura%202022%201080p%20DUAL%205.1.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/14/07/18/13/58/562226.jpg" group-title="FILMES | SUPER-HERÓIS",AS TARTARUGAS NINJAS - 2014 - 1h 42m
+https://www.googleapis.com/drive/v3/files/1dUdeyEbdJew44iYbrICBgoIX39VcLpzi?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAqY00xZBCadhJMQS39_l73FBpAk8-A-aSpw&usqp=CAU" group-title="FILMES | SUPER-HERÓIS",AS TARTARUGAS NINJAS 2: O SEGREDO DE OOZE - 2020 - 1h 28m
+https://www.googleapis.com/drive/v3/files/1NRT5bugM-jflVwYar660hAGn2HDY7sDv?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2sGIzIJMpF0LzKQbBZz8vVYLbN-I361QgZQ&usqp=CAU" group-title="FILMES | SUPER-HERÓIS",AS TARTARUGAS NINJAS: FORA DA SOMBRAS - 2016 - 1h 53m
+https://www.googleapis.com/drive/v3/files/1Bw5FA_hmlo24F6ym-AaUcbI54uqvx7_7?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/13/15/07/5292389.jpg" group-title="FILMES | GOSPEL",SUPERAÇÃO -  O MILAGRE DA FÉ - 2019 - 1h 56m
+https://drive164.gilliardgois2086162.workers.dev/0:/%40Supera%C3%A7%C3%A3o%20-%20O%20Milagre%20Da%20F%C3%A9%20%5B2019%5D.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#################################################################### SÉRIES ########################################################################################################3
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjeBN4M8IIQml1c_RG1IWOiQUDI8qUeGPflw&usqp=CAU" group-title="SÉRIES | CORPO HUMANO",CORPO HUMANO - T01E01
+https://www.googleapis.com/drive/v3/files/1-4NOopGq763H2_n1bloyeoE5yrgnkdEv?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjeBN4M8IIQml1c_RG1IWOiQUDI8qUeGPflw&usqp=CAU" group-title="SÉRIES | CORPO HUMANO",CORPO HUMANO - T01E02
+https://www.googleapis.com/drive/v3/files/12V-FdYWdtU7o0EG_6Yy_b0vl0nVXSBsH?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjeBN4M8IIQml1c_RG1IWOiQUDI8qUeGPflw&usqp=CAU" group-title="SÉRIES | CORPO HUMANO",CORPO HUMANO - T01E03
+https://www.googleapis.com/drive/v3/files/12MYdKJwAGI-4NIhMO1n4caWIGMClej5J?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjeBN4M8IIQml1c_RG1IWOiQUDI8qUeGPflw&usqp=CAU" group-title="SÉRIES | CORPO HUMANO",CORPO HUMANO - T01E04
+https://www.googleapis.com/drive/v3/files/12SLhyJB_52KB7krU76cdgea7W64qGeZt?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjeBN4M8IIQml1c_RG1IWOiQUDI8qUeGPflw&usqp=CAU" group-title="SÉRIES | CORPO HUMANO",CORPO HUMANO - T01E05
+https://www.googleapis.com/drive/v3/files/12NsH3m2OpkPoioaeHU0ebCly2rOaQC1D?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjeBN4M8IIQml1c_RG1IWOiQUDI8qUeGPflw&usqp=CAU" group-title="SÉRIES | CORPO HUMANO",CORPO HUMANO - T01E06
+https://www.googleapis.com/drive/v3/files/12NlrkemKmXZS1W2-7-0gYSqSxeSN2gNt?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHI-PFpxziPvyhx802hwq0Jyna7ireHgmvbw&usqp=CAU" group-title="SÉRIES | CHAVES",CHAVES - T01E01
+https://www.googleapis.com/drive/v3/files/19r2iqqVTcbOpuYGW6f4SO2MJTcgnLxSk?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHI-PFpxziPvyhx802hwq0Jyna7ireHgmvbw&usqp=CAU" group-title="SÉRIES | CHAVES",CHAVES - T01E02
+https://www.googleapis.com/drive/v3/files/1I2GHZ5qmbE8MUDc7zgmvxj3AxqTi08bs?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E01
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/01.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E02
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/02.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E03
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/03.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E04
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/04.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E05
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/05.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E06
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/06.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E07
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/07.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E08
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/08.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E09
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/09.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E10
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/10.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E1l
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/11.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E12
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/12.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/images%20%289%29.jpeg" group-title="SÉRIES | SHADOWHUNTERS",SHADOWHUNTERS - T01E13
+https://dive214.gilliardgois2086162.workers.dev/0:/Shadowhunters%201%C2%B0%20Temporada/13.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E01
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/01.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E02
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/02.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E03
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/03.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E04
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/04.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E05
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/05.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E06
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/06.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E07
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/07.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E08
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/08.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E09
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/09.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E10
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/10.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E11
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/11.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E12
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/12.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/259dd65fca5406d27ddd125d98a3fe0698e91b5a003911da26c270a081ad1d83.jpg" group-title="SÉRIES | THE 100",THE 100 - T01E13
+https://drive222.gilliardgois2086162.workers.dev/0:/The%20100%201%C2%B0%20Temporada/13.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/QjCDm-3UsMU0v1mFRal-4t7dt1Y=/290x478/smart/media/movies/covers/2022/07/25bfd6715bf2ff57e2c9fdd903c5daf2879c3.jpg" group-title="SÉRIES | BOO BITCH",BOO BITCH - T01E01
+https://drive164.gilliardgois2086162.workers.dev/0:/Boo%20Bitch-%201%C2%B0%20Temporada%20/01.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/QjCDm-3UsMU0v1mFRal-4t7dt1Y=/290x478/smart/media/movies/covers/2022/07/25bfd6715bf2ff57e2c9fdd903c5daf2879c3.jpg" group-title="SÉRIES | BOO BITCH",BOO BITCH - T01E02
+https://drive164.gilliardgois2086162.workers.dev/0:/Boo%20Bitch-%201%C2%B0%20Temporada%20/02.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/QjCDm-3UsMU0v1mFRal-4t7dt1Y=/290x478/smart/media/movies/covers/2022/07/25bfd6715bf2ff57e2c9fdd903c5daf2879c3.jpg" group-title="SÉRIES | BOO BITCH",BOO BITCH - T01E03 
+https://drive164.gilliardgois2086162.workers.dev/0:/Boo%20Bitch-%201%C2%B0%20Temporada%20/03.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/QjCDm-3UsMU0v1mFRal-4t7dt1Y=/290x478/smart/media/movies/covers/2022/07/25bfd6715bf2ff57e2c9fdd903c5daf2879c3.jpg" group-title="SÉRIES | BOO BITCH",BOO BITCH - T01E04 
+https://drive164.gilliardgois2086162.workers.dev/0:/Boo%20Bitch-%201%C2%B0%20Temporada%20/04.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/QjCDm-3UsMU0v1mFRal-4t7dt1Y=/290x478/smart/media/movies/covers/2022/07/25bfd6715bf2ff57e2c9fdd903c5daf2879c3.jpg" group-title="SÉRIES | BOO BITCH",BOO BITCH - T01E05 
+https://drive164.gilliardgois2086162.workers.dev/0:/Boo%20Bitch-%201%C2%B0%20Temporada%20/05.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/QjCDm-3UsMU0v1mFRal-4t7dt1Y=/290x478/smart/media/movies/covers/2022/07/25bfd6715bf2ff57e2c9fdd903c5daf2879c3.jpg" group-title="SÉRIES | BOO BITCH",BOO BITCH - T01E06 
+https://drive164.gilliardgois2086162.workers.dev/0:/Boo%20Bitch-%201%C2%B0%20Temporada%20/06.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/QjCDm-3UsMU0v1mFRal-4t7dt1Y=/290x478/smart/media/movies/covers/2022/07/25bfd6715bf2ff57e2c9fdd903c5daf2879c3.jpg" group-title="SÉRIES | BOO BITCH",BOO BITCH - T01E07 
+https://drive164.gilliardgois2086162.workers.dev/0:/Boo%20Bitch-%201%C2%B0%20Temporada%20/07.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/QjCDm-3UsMU0v1mFRal-4t7dt1Y=/290x478/smart/media/movies/covers/2022/07/25bfd6715bf2ff57e2c9fdd903c5daf2879c3.jpg" group-title="SÉRIES | BOO BITCH",BOO BITCH - T01E08 
+https://drive164.gilliardgois2086162.workers.dev/0:/Boo%20Bitch-%201%C2%B0%20Temporada%20/08.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOUQzhFH5rrq9hHfUeVdibPRCqD_AFLfuPw&usqp=CAU" group-title="SÉRIES | OBI-WAN KENOBI",OBI-WAN KENOBI- ÓPERA ESPACIAL - T01E01
+https://dive214.gilliardgois2086162.workers.dev/0:/Obi-Wan%20Kenobi%201%20temporada%20/01.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOUQzhFH5rrq9hHfUeVdibPRCqD_AFLfuPw&usqp=CAU" group-title="SÉRIES | OBI-WAN KENOBI",OBI-WAN KENOBI- ÓPERA ESPACIAL - T01E02
+https://dive214.gilliardgois2086162.workers.dev/0:/Obi-Wan%20Kenobi%201%20temporada%20/02.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOUQzhFH5rrq9hHfUeVdibPRCqD_AFLfuPw&usqp=CAU" group-title="SÉRIES | OBI-WAN KENOBI",OBI-WAN KENOBI- ÓPERA ESPACIAL - T01E03
+https://dive214.gilliardgois2086162.workers.dev/0:/Obi-Wan%20Kenobi%201%20temporada%20/03.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOUQzhFH5rrq9hHfUeVdibPRCqD_AFLfuPw&usqp=CAU" group-title="SÉRIES | OBI-WAN KENOBI",OBI-WAN KENOBI- ÓPERA ESPACIAL - T01E04
+https://dive214.gilliardgois2086162.workers.dev/0:/Obi-Wan%20Kenobi%201%20temporada%20/04.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOUQzhFH5rrq9hHfUeVdibPRCqD_AFLfuPw&usqp=CAU" group-title="SÉRIES | OBI-WAN KENOBI",OBI-WAN KENOBI- ÓPERA ESPACIAL - T01E05
+https://dive214.gilliardgois2086162.workers.dev/0:/Obi-Wan%20Kenobi%201%20temporada%20/05.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOUQzhFH5rrq9hHfUeVdibPRCqD_AFLfuPw&usqp=CAU" group-title="SÉRIES | OBI-WAN KENOBI",OBI-WAN KENOBI- ÓPERA ESPACIAL - T01E06
+https://dive214.gilliardgois2086162.workers.dev/0:/Obi-Wan%20Kenobi%201%20temporada%20/06.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJeDczv2YrfmtCirxthN8gTMhigqX06mcjA&usqp=CAU" group-title="SÉRIES | BEM-VINDOS AO ÉDEN",BEM-VINDOS AO ÉDEN - T01E01
+https://drive174.gilliardgois2086162.workers.dev/0:/Bem.Vindo%20ao%20%C3%89den%201%C2%B0%20Temporada%20/01.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJeDczv2YrfmtCirxthN8gTMhigqX06mcjA&usqp=CAU" group-title="SÉRIES | BEM-VINDOS AO ÉDEN",BEM-VINDOS AO ÉDEN - T01E02
+https://drive174.gilliardgois2086162.workers.dev/0:/Bem.Vindo%20ao%20%C3%89den%201%C2%B0%20Temporada%20/02.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJeDczv2YrfmtCirxthN8gTMhigqX06mcjA&usqp=CAU" group-title="SÉRIES | BEM-VINDOS AO ÉDEN",BEM-VINDOS AO ÉDEN - T01E03
+https://drive174.gilliardgois2086162.workers.dev/0:/Bem.Vindo%20ao%20%C3%89den%201%C2%B0%20Temporada%20/03.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJeDczv2YrfmtCirxthN8gTMhigqX06mcjA&usqp=CAU" group-title="SÉRIES | BEM-VINDOS AO ÉDEN",BEM-VINDOS AO ÉDEN - T01E04
+https://drive174.gilliardgois2086162.workers.dev/0:/Bem.Vindo%20ao%20%C3%89den%201%C2%B0%20Temporada%20/04.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJeDczv2YrfmtCirxthN8gTMhigqX06mcjA&usqp=CAU" group-title="SÉRIES | BEM-VINDOS AO ÉDEN",BEM-VINDOS AO ÉDEN - T01E05
+https://drive174.gilliardgois2086162.workers.dev/0:/Bem.Vindo%20ao%20%C3%89den%201%C2%B0%20Temporada%20/05.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJeDczv2YrfmtCirxthN8gTMhigqX06mcjA&usqp=CAU" group-title="SÉRIES | BEM-VINDOS AO ÉDEN",BEM-VINDOS AO ÉDEN - T01E06
+https://drive174.gilliardgois2086162.workers.dev/0:/Bem.Vindo%20ao%20%C3%89den%201%C2%B0%20Temporada%20/06.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJeDczv2YrfmtCirxthN8gTMhigqX06mcjA&usqp=CAU" group-title="SÉRIES | BEM-VINDOS AO ÉDEN",BEM-VINDOS AO ÉDEN - T01E07
+https://drive174.gilliardgois2086162.workers.dev/0:/Bem.Vindo%20ao%20%C3%89den%201%C2%B0%20Temporada%20/07.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJeDczv2YrfmtCirxthN8gTMhigqX06mcjA&usqp=CAU" group-title="SÉRIES | BEM-VINDOS AO ÉDEN",BEM-VINDOS AO ÉDEN - T01E08
+https://drive174.gilliardgois2086162.workers.dev/0:/Bem.Vindo%20ao%20%C3%89den%201%C2%B0%20Temporada%20/08.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hJx9aFc8g32KjrW7mpv53cEvEDS.jpg" group-title="SÉRIES | MISS MARVEL",MISS MARVEL - T01E01
+https://dive214.gilliardgois2086162.workers.dev/0:/Miss%20Marvel%20S01/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hJx9aFc8g32KjrW7mpv53cEvEDS.jpg" group-title="SÉRIES | MISS MARVEL",MISS MARVEL - T01E02
+https://dive214.gilliardgois2086162.workers.dev/0:/Miss%20Marvel%20S01/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hJx9aFc8g32KjrW7mpv53cEvEDS.jpg" group-title="SÉRIES | MISS MARVEL",MISS MARVEL - T01E03
+https://dive214.gilliardgois2086162.workers.dev/0:/Miss%20Marvel%20S01/03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hJx9aFc8g32KjrW7mpv53cEvEDS.jpg" group-title="SÉRIES | MISS MARVEL",MISS MARVEL - T01E04
+https://dive214.gilliardgois2086162.workers.dev/0:/Miss%20Marvel%20S01/04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hJx9aFc8g32KjrW7mpv53cEvEDS.jpg" group-title="SÉRIES | MISS MARVEL",MISS MARVEL - T01E05
+https://dive214.gilliardgois2086162.workers.dev/0:/Miss%20Marvel%20S01/05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hJx9aFc8g32KjrW7mpv53cEvEDS.jpg" group-title="SÉRIES | MISS MARVEL",MISS MARVEL - T01E06
+https://dive214.gilliardgois2086162.workers.dev/0:/Miss%20Marvel%20S01/06.mkv
+
+#EXTINF:-1 tvg-logo="https://drive218.gilliardgois2086162.workers.dev/0:/Residente%20Evil%20a%20S%C3%A9rie%201%C2%B0%20Temporada%20/capa.jpg" group-title="SÉRIES | RESIDENTE EVIL",RESIDENTE EVIL - T01E01
+https://drive220.gilliardgois210.workers.dev/0:/01.mkv
+#EXTINF:-1 tvg-logo="https://drive218.gilliardgois2086162.workers.dev/0:/Residente%20Evil%20a%20S%C3%A9rie%201%C2%B0%20Temporada%20/capa.jpg" group-title="SÉRIES | RESIDENTE EVIL",RESIDENTE EVIL - T01E02
+https://drive220.gilliardgois210.workers.dev/0:/02.mkv
+#EXTINF:-1 tvg-logo="https://drive218.gilliardgois2086162.workers.dev/0:/Residente%20Evil%20a%20S%C3%A9rie%201%C2%B0%20Temporada%20/capa.jpg" group-title="SÉRIES | RESIDENTE EVIL",RESIDENTE EVIL - T01E03
+https://drive220.gilliardgois210.workers.dev/0:/03.mkv
+#EXTINF:-1 tvg-logo="https://drive218.gilliardgois2086162.workers.dev/0:/Residente%20Evil%20a%20S%C3%A9rie%201%C2%B0%20Temporada%20/capa.jpg" group-title="SÉRIES | RESIDENTE EVIL",RESIDENTE EVIL - T01E04
+https://drive220.gilliardgois210.workers.dev/0:/04.mkv
+#EXTINF:-1 tvg-logo="https://drive218.gilliardgois2086162.workers.dev/0:/Residente%20Evil%20a%20S%C3%A9rie%201%C2%B0%20Temporada%20/capa.jpg" group-title="SÉRIES | RESIDENTE EVIL",RESIDENTE EVIL - T01E05
+https://drive220.gilliardgois210.workers.dev/0:/05.mkv
+#EXTINF:-1 tvg-logo="https://drive218.gilliardgois2086162.workers.dev/0:/Residente%20Evil%20a%20S%C3%A9rie%201%C2%B0%20Temporada%20/capa.jpg" group-title="SÉRIES | RESIDENTE EVIL",RESIDENTE EVIL - T01E06
+https://drive220.gilliardgois210.workers.dev/0:/06.mkv
+#EXTINF:-1 tvg-logo="https://drive218.gilliardgois2086162.workers.dev/0:/Residente%20Evil%20a%20S%C3%A9rie%201%C2%B0%20Temporada%20/capa.jpg" group-title="SÉRIES | RESIDENTE EVIL",RESIDENTE EVIL - T01E07
+https://drive220.gilliardgois210.workers.dev/0:/07.mkv
+#EXTINF:-1 tvg-logo="https://drive218.gilliardgois2086162.workers.dev/0:/Residente%20Evil%20a%20S%C3%A9rie%201%C2%B0%20Temporada%20/capa.jpg" group-title="SÉRIES | RESIDENTE EVIL",RESIDENTE EVIL - T01E08
+https://drive220.gilliardgois210.workers.dev/0:/08.mkv
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-yQcYaC10E9xO9LxXXhqC_Rl4SfieVpQ?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="SÉRIES | MR. BEAN (HOMEM vs ABELHA)",MR. BEAN - T01E01                                    
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Man%20vs%20BEE%201%20%C2%AA%20temporada/01.mkv
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-yQcYaC10E9xO9LxXXhqC_Rl4SfieVpQ?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="SÉRIES | MR. BEAN (HOMEM vs ABELHA)",MR. BEAN - T01E02
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Man%20vs%20BEE%201%20%C2%AA%20temporada/02.mkv
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-yQcYaC10E9xO9LxXXhqC_Rl4SfieVpQ?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="SÉRIES | MR. BEAN (HOMEM vs ABELHA)",MR. BEAN - T01E03
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Man%20vs%20BEE%201%20%C2%AA%20temporada/03.mkv
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-yQcYaC10E9xO9LxXXhqC_Rl4SfieVpQ?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="SÉRIES | MR. BEAN (HOMEM vs ABELHA)",MR. BEAN - T01E04
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Man%20vs%20BEE%201%20%C2%AA%20temporada/04.mkv
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-yQcYaC10E9xO9LxXXhqC_Rl4SfieVpQ?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="SÉRIES | MR. BEAN (HOMEM vs ABELHA)",MR. BEAN - T01E05
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Man%20vs%20BEE%201%20%C2%AA%20temporada/05.mkv
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-yQcYaC10E9xO9LxXXhqC_Rl4SfieVpQ?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="SÉRIES | MR. BEAN (HOMEM vs ABELHA)",MR. BEAN - T01E06
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Man%20vs%20BEE%201%20%C2%AA%20temporada/06.mkv
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-yQcYaC10E9xO9LxXXhqC_Rl4SfieVpQ?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="SÉRIES | MR. BEAN (HOMEM vs ABELHA)",MR. BEAN - T01E07
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Man%20vs%20BEE%201%20%C2%AA%20temporada/07.mkv
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-yQcYaC10E9xO9LxXXhqC_Rl4SfieVpQ?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="SÉRIES | MR. BEAN (HOMEM vs ABELHA)",MR. BEAN - T01E08
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Man%20vs%20BEE%201%20%C2%AA%20temporada/08.mkv
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-yQcYaC10E9xO9LxXXhqC_Rl4SfieVpQ?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="SÉRIES | MR. BEAN (HOMEM vs ABELHA)",MR. BEAN - T01E09
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Man%20vs%20BEE%201%20%C2%AA%20temporada/09.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAAwwSKkDrdxIjPRs47bes_TX3vMevThDGQ&usqp=CAU" group-title="SÉRIES | OUTRA VIDA",OUTRA VIDA - T01E01 
+https://drive218.gilliardgois2086162.workers.dev/0:/Outra%20vida%201%C2%B0%20Temporada%20/01.mp4      
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAAwwSKkDrdxIjPRs47bes_TX3vMevThDGQ&usqp=CAU" group-title="SÉRIES | OUTRA VIDA",OUTRA VIDA - T01E02 
+https://drive218.gilliardgois2086162.workers.dev/0:/Outra%20vida%201%C2%B0%20Temporada%20/02.mp4      
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAAwwSKkDrdxIjPRs47bes_TX3vMevThDGQ&usqp=CAU" group-title="SÉRIES | OUTRA VIDA",OUTRA VIDA - T01E03 
+https://drive218.gilliardgois2086162.workers.dev/0:/Outra%20vida%201%C2%B0%20Temporada%20/03.mp4 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAAwwSKkDrdxIjPRs47bes_TX3vMevThDGQ&usqp=CAU" group-title="SÉRIES | OUTRA VIDA",OUTRA VIDA - T01E04 
+https://drive218.gilliardgois2086162.workers.dev/0:/Outra%20vida%201%C2%B0%20Temporada%20/04.mp4      
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAAwwSKkDrdxIjPRs47bes_TX3vMevThDGQ&usqp=CAU" group-title="SÉRIES | OUTRA VIDA",OUTRA VIDA - T01E05 
+https://drive218.gilliardgois2086162.workers.dev/0:/Outra%20vida%201%C2%B0%20Temporada%20/05.mp4      
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAAwwSKkDrdxIjPRs47bes_TX3vMevThDGQ&usqp=CAU" group-title="SÉRIES | OUTRA VIDA",OUTRA VIDA - T01E06 
+https://drive218.gilliardgois2086162.workers.dev/0:/Outra%20vida%201%C2%B0%20Temporada%20/06.mp4      
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAAwwSKkDrdxIjPRs47bes_TX3vMevThDGQ&usqp=CAU" group-title="SÉRIES | OUTRA VIDA",OUTRA VIDA - T01E07 
+https://drive218.gilliardgois2086162.workers.dev/0:/Outra%20vida%201%C2%B0%20Temporada%20/07.mp4      
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAAwwSKkDrdxIjPRs47bes_TX3vMevThDGQ&usqp=CAU" group-title="SÉRIES | OUTRA VIDA",OUTRA VIDA - T01E08 
+https://drive218.gilliardgois2086162.workers.dev/0:/Outra%20vida%201%C2%B0%20Temporada%20/08.mp4      
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAAwwSKkDrdxIjPRs47bes_TX3vMevThDGQ&usqp=CAU" group-title="SÉRIES | OUTRA VIDA",OUTRA VIDA - T01E09 
+https://drive218.gilliardgois2086162.workers.dev/0:/Outra%20vida%201%C2%B0%20Temporada%20/09.mp4      
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAAwwSKkDrdxIjPRs47bes_TX3vMevThDGQ&usqp=CAU" group-title="SÉRIES | OUTRA VIDA",OUTRA VIDA - T01E10 
+https://drive218.gilliardgois2086162.workers.dev/0:/Outra%20vida%201%C2%B0%20Temporada%20/10.mp4      
+                  
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQr79i4gxpoWrQTgCDNWuiQaIe-Xit9EOUQ&usqp=CAU" group-title="SÉRIES | A LISTA TERMINAL",A LISTA TERMINAL - T01E01
+https://drive213.gilliardgois2086162.workers.dev/0:/A%20L1sta4%20T3rm1nal-1%C2%B0%20Temporada%20Completa%20/01.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQr79i4gxpoWrQTgCDNWuiQaIe-Xit9EOUQ&usqp=CAU" group-title="SÉRIES | A LISTA TERMINAL",A LISTA TERMINAL - T01E02
+https://drive213.gilliardgois2086162.workers.dev/0:/A%20L1sta4%20T3rm1nal-1%C2%B0%20Temporada%20Completa%20/02.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQr79i4gxpoWrQTgCDNWuiQaIe-Xit9EOUQ&usqp=CAU" group-title="SÉRIES | A LISTA TERMINAL",A LISTA TERMINAL - T01E03
+https://drive213.gilliardgois2086162.workers.dev/0:/A%20L1sta4%20T3rm1nal-1%C2%B0%20Temporada%20Completa%20/03.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQr79i4gxpoWrQTgCDNWuiQaIe-Xit9EOUQ&usqp=CAU" group-title="SÉRIES | A LISTA TERMINAL",A LISTA TERMINAL - T01E04
+https://drive213.gilliardgois2086162.workers.dev/0:/A%20L1sta4%20T3rm1nal-1%C2%B0%20Temporada%20Completa%20/04.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQr79i4gxpoWrQTgCDNWuiQaIe-Xit9EOUQ&usqp=CAU" group-title="SÉRIES | A LISTA TERMINAL",A LISTA TERMINAL - T01E05
+https://drive213.gilliardgois2086162.workers.dev/0:/A%20L1sta4%20T3rm1nal-1%C2%B0%20Temporada%20Completa%20/05.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQr79i4gxpoWrQTgCDNWuiQaIe-Xit9EOUQ&usqp=CAU" group-title="SÉRIES | A LISTA TERMINAL",A LISTA TERMINAL - T01E06
+https://drive213.gilliardgois2086162.workers.dev/0:/A%20L1sta4%20T3rm1nal-1%C2%B0%20Temporada%20Completa%20/06.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQr79i4gxpoWrQTgCDNWuiQaIe-Xit9EOUQ&usqp=CAU" group-title="SÉRIES | A LISTA TERMINAL",A LISTA TERMINAL - T01E07
+https://drive213.gilliardgois2086162.workers.dev/0:/A%20L1sta4%20T3rm1nal-1%C2%B0%20Temporada%20Completa%20/07.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQr79i4gxpoWrQTgCDNWuiQaIe-Xit9EOUQ&usqp=CAU" group-title="SÉRIES | A LISTA TERMINAL",A LISTA TERMINAL - T01E08
+https://drive213.gilliardgois2086162.workers.dev/0:/A%20L1sta4%20T3rm1nal-1%C2%B0%20Temporada%20Completa%20/08.mkv 
+
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E01
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/01.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E02
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/02.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E03
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/03.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E04
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/04.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E05
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/05.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E06
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/06.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E07
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/07.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E08
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/08.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E09
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/09.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E10
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/10.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E11
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/11.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E12
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/12.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E13
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/13.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E14
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/14.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E15
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/15.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E16
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/16.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E17
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/17.mp4
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.club/wp-content/uploads/2022/02/NCIS-Havai-1.jpg" group-title="SÉRIES | NCIS: HAWAII",NCIS: HAWAII - T01E18
+https://drive216.gilliardgois2086162.workers.dev/0:/NCIS%3AHavaii/18.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/5F5-LkQo0QDA7XSyf92gpI0-ObI=/290x478/smart/media/movies/covers/2018/08/6_I3CEfVS.jpg" group-title="SÉRIES | LARGADOS E PELADOS",LARGADOS E PELADOS - T12E01
+https://drive205.gilliardgois2086162.workers.dev/0:/Largados%20e%20Pelados%2012%20temporada/01.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/5F5-LkQo0QDA7XSyf92gpI0-ObI=/290x478/smart/media/movies/covers/2018/08/6_I3CEfVS.jpg" group-title="SÉRIES | LARGADOS E PELADOS",LARGADOS E PELADOS - T12E02
+https://drive205.gilliardgois2086162.workers.dev/0:/Largados%20e%20Pelados%2012%20temporada/02.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/5F5-LkQo0QDA7XSyf92gpI0-ObI=/290x478/smart/media/movies/covers/2018/08/6_I3CEfVS.jpg" group-title="SÉRIES | LARGADOS E PELADOS",LARGADOS E PELADOS - T12E03
+https://drive205.gilliardgois2086162.workers.dev/0:/Largados%20e%20Pelados%2012%20temporada/03.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/5F5-LkQo0QDA7XSyf92gpI0-ObI=/290x478/smart/media/movies/covers/2018/08/6_I3CEfVS.jpg" group-title="SÉRIES | LARGADOS E PELADOS",LARGADOS E PELADOS - T12E04
+https://drive205.gilliardgois2086162.workers.dev/0:/Largados%20e%20Pelados%2012%20temporada/04.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/5F5-LkQo0QDA7XSyf92gpI0-ObI=/290x478/smart/media/movies/covers/2018/08/6_I3CEfVS.jpg" group-title="SÉRIES | LARGADOS E PELADOS",LARGADOS E PELADOS - T12E05
+https://drive205.gilliardgois2086162.workers.dev/0:/Largados%20e%20Pelados%2012%20temporada/05.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/5F5-LkQo0QDA7XSyf92gpI0-ObI=/290x478/smart/media/movies/covers/2018/08/6_I3CEfVS.jpg" group-title="SÉRIES | LARGADOS E PELADOS",LARGADOS E PELADOS - T12E06
+https://drive205.gilliardgois2086162.workers.dev/0:/Largados%20e%20Pelados%2012%20temporada/06.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/5F5-LkQo0QDA7XSyf92gpI0-ObI=/290x478/smart/media/movies/covers/2018/08/6_I3CEfVS.jpg" group-title="SÉRIES | LARGADOS E PELADOS",LARGADOS E PELADOS - T12E07
+https://drive205.gilliardgois2086162.workers.dev/0:/Largados%20e%20Pelados%2012%20temporada/07.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/5F5-LkQo0QDA7XSyf92gpI0-ObI=/290x478/smart/media/movies/covers/2018/08/6_I3CEfVS.jpg" group-title="SÉRIES | LARGADOS E PELADOS",LARGADOS E PELADOS - T12E08
+https://drive205.gilliardgois2086162.workers.dev/0:/Largados%20e%20Pelados%2012%20temporada/08.mp4
+
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/images.jpeg" group-title="SÉRIES | O VERÃO QUE MUDOU A MINHA VIDA",O VERÃO QUE MUDOU A MINHA VIDA - T01E01
+https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/01.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/images.jpeg" group-title="SÉRIES | O VERÃO QUE MUDOU A MINHA VIDA",O VERÃO QUE MUDOU A MINHA VIDA - T01E02
+https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/02.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/images.jpeg" group-title="SÉRIES | O VERÃO QUE MUDOU A MINHA VIDA",O VERÃO QUE MUDOU A MINHA VIDA - T01E03
+https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/03.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/images.jpeg" group-title="SÉRIES | O VERÃO QUE MUDOU A MINHA VIDA",O VERÃO QUE MUDOU A MINHA VIDA - T01E04
+https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/04.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/images.jpeg" group-title="SÉRIES | O VERÃO QUE MUDOU A MINHA VIDA",O VERÃO QUE MUDOU A MINHA VIDA - T01E05
+https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/05.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/images.jpeg" group-title="SÉRIES | O VERÃO QUE MUDOU A MINHA VIDA",O VERÃO QUE MUDOU A MINHA VIDA - T01E06
+https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/06.mp4
+#EXTINF:-1 tvg-logo="https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/images.jpeg" group-title="SÉRIES | O VERÃO QUE MUDOU A MINHA VIDA",O VERÃO QUE MUDOU A MINHA VIDA - T01E07
+https://dive214.gilliardgois2086162.workers.dev/0:/O%20Ver%C3%A3o%20que%20mudou%20a%20minha%20vida/07.mp4
+
+#EXTINF:-1 tvg-logo="https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/IMG-20220703-WA0037.jpg" group-title="SÉRIES | ARCANJO RENEGADO",ARCANJO RENEGADO - T01E01
+https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/S01E01.mp4
+#EXTINF:-1 tvg-logo="https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/IMG-20220703-WA0037.jpg" group-title="SÉRIES | ARCANJO RENEGADO",ARCANJO RENEGADO - T01E02
+https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/S01E02.mp4
+#EXTINF:-1 tvg-logo="https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/IMG-20220703-WA0037.jpg" group-title="SÉRIES | ARCANJO RENEGADO",ARCANJO RENEGADO - T01E03
+https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/S01E03.mp4
+#EXTINF:-1 tvg-logo="https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/IMG-20220703-WA0037.jpg" group-title="SÉRIES | ARCANJO RENEGADO",ARCANJO RENEGADO - T01E04
+https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/S01E04.mp4
+#EXTINF:-1 tvg-logo="https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/IMG-20220703-WA0037.jpg" group-title="SÉRIES | ARCANJO RENEGADO",ARCANJO RENEGADO - T01E05
+https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/S01E05.mp4
+#EXTINF:-1 tvg-logo="https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/IMG-20220703-WA0037.jpg" group-title="SÉRIES | ARCANJO RENEGADO",ARCANJO RENEGADO - T01E06
+https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/S01E06.mp4
+#EXTINF:-1 tvg-logo="https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/IMG-20220703-WA0037.jpg" group-title="SÉRIES | ARCANJO RENEGADO",ARCANJO RENEGADO - T01E07
+https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/S01E07.mp4
+#EXTINF:-1 tvg-logo="https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/IMG-20220703-WA0037.jpg" group-title="SÉRIES | ARCANJO RENEGADO",ARCANJO RENEGADO - T01E08
+https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/S01E08.mp4
+#EXTINF:-1 tvg-logo="https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/IMG-20220703-WA0037.jpg" group-title="SÉRIES | ARCANJO RENEGADO",ARCANJO RENEGADO - T01E09
+https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/S01E09.mp4
+#EXTINF:-1 tvg-logo="https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/IMG-20220703-WA0037.jpg" group-title="SÉRIES | ARCANJO RENEGADO",ARCANJO RENEGADO - T01E10
+https://drive212.gilliardgois2086162.workers.dev/0:/Arcanjo%20Renegado/S01E10.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E01
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/01.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E02
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/02.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E03
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/03.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E04
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/04.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E05
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/05.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E06
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/06.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E07
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/07.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E08
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/08.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E09
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/09.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E10
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/10.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E11
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/11.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E12
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/12.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E13
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/13.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E14
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/14.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E15
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/15.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E16
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/16.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E17
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/17.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E18
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/18.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E19
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/19.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E20
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/20.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E21
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/21.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d81IAWm1ajCmV46rMlMujSgoteSkcZa4hA&usqp=CAU" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T01E22
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%201%C2%B0%20Temporada%20/22.mkv
+
+
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E01
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/01.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E02
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/02.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E03
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/03.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E04
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/04.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E05
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/05.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E06
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/06.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E07
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/07.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E08
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/08.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E09
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/09.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E10
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/10.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E11
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/11.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E12
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/12.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E13
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/13.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E14
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/14.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E15
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/15.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E16
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/16.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E17
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/17.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E18
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/18.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E19
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/19.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E20
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/20.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E21
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/21.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5331ab90bf6a9687c3521e2afb2348aaf081df32043a9329683ca0e1307eb0d._RI_TTW_.jpg" group-title="SÉRIES | TODO MUNDO ODEIA O CHRIS",TODO MUNDO ODEIA O CHRIS - T02E22
+https://drive128.gilliardgois210.workers.dev/0:/Todo%20mundo%20odeia%20o%20Chris%202%C2%B0Temporada%20/22.mkv
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdcTPJRUvgDnnt57U4g3O6aYfoKqeBI1Fsw&usqp=CAU" group-title="SÉRIES | LA BREA",LA BREA - T01E01
+https://drive128.gilliardgois210.workers.dev/0:/La%20Brea-%201%C2%B0%20Temporada/01.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdcTPJRUvgDnnt57U4g3O6aYfoKqeBI1Fsw&usqp=CAU" group-title="SÉRIES | LA BREA",LA BREA - T01E02
+https://drive128.gilliardgois210.workers.dev/0:/La%20Brea-%201%C2%B0%20Temporada/02.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdcTPJRUvgDnnt57U4g3O6aYfoKqeBI1Fsw&usqp=CAU" group-title="SÉRIES | LA BREA",LA BREA - T01E03
+https://drive128.gilliardgois210.workers.dev/0:/La%20Brea-%201%C2%B0%20Temporada/03.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdcTPJRUvgDnnt57U4g3O6aYfoKqeBI1Fsw&usqp=CAU" group-title="SÉRIES | LA BREA",LA BREA - T01E04
+https://drive128.gilliardgois210.workers.dev/0:/La%20Brea-%201%C2%B0%20Temporada/04.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdcTPJRUvgDnnt57U4g3O6aYfoKqeBI1Fsw&usqp=CAU" group-title="SÉRIES | LA BREA",LA BREA - T01E05
+https://drive128.gilliardgois210.workers.dev/0:/La%20Brea-%201%C2%B0%20Temporada/05.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdcTPJRUvgDnnt57U4g3O6aYfoKqeBI1Fsw&usqp=CAU" group-title="SÉRIES | LA BREA",LA BREA - T01E06
+https://drive128.gilliardgois210.workers.dev/0:/La%20Brea-%201%C2%B0%20Temporada/06.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdcTPJRUvgDnnt57U4g3O6aYfoKqeBI1Fsw&usqp=CAU" group-title="SÉRIES | LA BREA",LA BREA - T01E07
+https://drive128.gilliardgois210.workers.dev/0:/La%20Brea-%201%C2%B0%20Temporada/07.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdcTPJRUvgDnnt57U4g3O6aYfoKqeBI1Fsw&usqp=CAU" group-title="SÉRIES | LA BREA",LA BREA - T01E08
+https://drive128.gilliardgois210.workers.dev/0:/La%20Brea-%201%C2%B0%20Temporada/08.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdcTPJRUvgDnnt57U4g3O6aYfoKqeBI1Fsw&usqp=CAU" group-title="SÉRIES | LA BREA",LA BREA - T01E09
+https://drive128.gilliardgois210.workers.dev/0:/La%20Brea-%201%C2%B0%20Temporada/09.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdcTPJRUvgDnnt57U4g3O6aYfoKqeBI1Fsw&usqp=CAU" group-title="SÉRIES | LA BREA",LA BREA - T01E10
+https://drive128.gilliardgois210.workers.dev/0:/La%20Brea-%201%C2%B0%20Temporada/10.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E01
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/01.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E02
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/02.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E03
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/03.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E04
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/04.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E05
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/05.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E06
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/06.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E07
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/07.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E08
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/08.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E09
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/09.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E10
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/10.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E11
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/11.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E12
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/12.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E13
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/13.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E14
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/14.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YuW9l9Ibxna-cm3E_RLTAPG__kBZ1iOzkQ&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T02E15
+https://drive164.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois*%202%C2%B0%20Temporada/15-final.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E01
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/1.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E02
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/2.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E03
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/3.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E04
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/4.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E05
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/5.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E06
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/6.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E07
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/7.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E08
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/8.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E09
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/9.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E10
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/10.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E11
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/11.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E12
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/12.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E13
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/13.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E14
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/14.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiib0YDfa2F6lhoZ7gzCi_nRzMkEpP5LI8A&usqp=CAU" group-title="SÉRIES | SUPERMAN & LOIS",SUPERMAN & LOIS - T01E15
+https://drive87.gilliardgois2086162.workers.dev/0:/Superman%20%26%20Lois%201%C2%B0%20Temp-2021/15.final.mp4
+
+
+
+################################################################################ DOCUMENTÁRIOS #################################################################################################################3
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-7LcmnZKtzGAugeM-3tkpkeG9DFD_12d?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="DOCUMENTÁRIOS | RUMO AO DESCONHECIDO",RUMO AO DESCONHECIDO - T01E01
+https://adrive183.gilliardgois210.workers.dev/0:/Rumo%20ao%20desconhecido%20/01.mkv
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-7LcmnZKtzGAugeM-3tkpkeG9DFD_12d?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="DOCUMENTÁRIOS | RUMO AO DESCONHECIDO",RUMO AO DESCONHECIDO - T01E02
+https://adrive183.gilliardgois210.workers.dev/0:/Rumo%20ao%20desconhecido%20/02.mkv
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-7LcmnZKtzGAugeM-3tkpkeG9DFD_12d?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="DOCUMENTÁRIOS | RUMO AO DESCONHECIDO",RUMO AO DESCONHECIDO - T01E03 
+https://adrive183.gilliardgois210.workers.dev/0:/Rumo%20ao%20desconhecido%20/03.mkv
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1-7LcmnZKtzGAugeM-3tkpkeG9DFD_12d?alt=media&key=AIzaSyCMYnTRlLntGwADawEPnHk5FxqQVeo5v6s" group-title="DOCUMENTÁRIOS | RUMO AO DESCONHECIDO",RUMO AO DESCONHECIDO - T01E04 
+https://adrive183.gilliardgois210.workers.dev/0:/Rumo%20ao%20desconhecido%20/04.mkv
+
+
+#EXTINF:-1 tvg-logo="https://img.odcdn.com.br/wp-content/uploads/2022/04/planeta-pre-historico-683x1024.webp" group-title="DOCUMENTÁRIOS | PLANETA PRÉ-HISTÓRICO",PLANETA PRÉ-HISTÓRICO - T01E01
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Planeta%20Pr%C3%A9-Hist%C3%B3rico%20/01.mp4
+#EXTINF:-1 tvg-logo="https://img.odcdn.com.br/wp-content/uploads/2022/04/planeta-pre-historico-683x1024.webp" group-title="DOCUMENTÁRIOS | PLANETA PRÉ-HISTÓRICO",PLANETA PRÉ-HISTÓRICO - T01E02
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Planeta%20Pr%C3%A9-Hist%C3%B3rico%20/02.mp4
+#EXTINF:-1 tvg-logo="https://img.odcdn.com.br/wp-content/uploads/2022/04/planeta-pre-historico-683x1024.webp" group-title="DOCUMENTÁRIOS | PLANETA PRÉ-HISTÓRICO",PLANETA PRÉ-HISTÓRICO - T01E03
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Planeta%20Pr%C3%A9-Hist%C3%B3rico%20/03.mp4
+#EXTINF:-1 tvg-logo="https://img.odcdn.com.br/wp-content/uploads/2022/04/planeta-pre-historico-683x1024.webp" group-title="DOCUMENTÁRIOS | PLANETA PRÉ-HISTÓRICO",PLANETA PRÉ-HISTÓRICO - T01E04
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Planeta%20Pr%C3%A9-Hist%C3%B3rico%20/04.mp4
+#EXTINF:-1 tvg-logo="https://img.odcdn.com.br/wp-content/uploads/2022/04/planeta-pre-historico-683x1024.webp" group-title="DOCUMENTÁRIOS | PLANETA PRÉ-HISTÓRICO",PLANETA PRÉ-HISTÓRICO - T01E05
+https://gilliardgois210.gilliardgois210.workers.dev/0:/Planeta%20Pr%C3%A9-Hist%C3%B3rico%20/05.mp4
+
+
+
+#EXTM3U url-tvg="http://grade-de-O Gordo E O Magro.xml" ############## O Gordo E O Magro ################# #EXTINF:-1 tvg-id=" iddocanaldeO Gordo E O Magro" group-title="SÉRIES | O GORDO E O MAGRO"
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Mestres Do Baile"tvg-logo="https://i.pinimg.com/736x/dd/14/0a/dd140a311e7fa56e82f302cdbb49e4a2.jpg"group-title="SÉRIES | O GORDO E O MAGRO",OS MESTRES DO BAILE
+https://ia601600.us.archive.org/6/items/dancing-masters-the/Dancing%20Masters%20The.ia.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="HERANÇA ASSOMBRADA"tvg-logo="https://i.ytimg.com/vi/oRsamUE6rhE/hqdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",HERANÇA ASSOMBRADA
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HERAN%C3%87A%20ASSOMBRADA.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LIBERDADE E SEUS PERIGOS"tvg-logo="https://i.ytimg.com/vi/ZPQQ0wV27hA/maxresdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",LIBERDADE E SEUS PERIGOS
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20LIBERDADE%20E%20SEUS%20PERIGOS.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="DOIS DETETIVES DA PESADA"tvg-logo="https://i.ytimg.com/vi/787MKc5AdgE/hqdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",DOIS DETETIVES DA PESADA
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DOIS%20DETETIVES%20DA%20PESADA.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="DUAS BABAS E UM BEBE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCMI-P7-tWtvEEelWZwO9nMFg3V0kWRCNKxYQ2GiZ4A4ATjTYVlRmw0-YO_AB5t19tJM&usqp=CAU"group-title="SÉRIES | O GORDO E O MAGRO",DUAS BABAS E UM BEBE
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DUAS%20BAB%C3%81S%20PARA%20UM%20BEB%C3%8A.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="ENTREGA EM DOMICILIO"tvg-logo="https://i.ytimg.com/vi/FJ5bmYWK5fM/sddefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",ENTREGA EM DOMICILIO
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ENTREGA%20A%20DOMIC%C3%8DLIO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LADRAO QUE ROUBA LADRAO"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_628436-MLB32160022341_092019-O.webp"group-title="SÉRIES | O GORDO E O MAGRO",LADRAO QUE ROUBA LADRAO
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20LADR%C3%83O%20QUE%20ROUBA%20LADR%C3%83O.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O GRANDE NEGOCIO"tvg-logo="https://i.ytimg.com/vi/B24alDaAekU/hqdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",O GRANDE NEGOCIO
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20GRANDE%20NEG%C3%93CIO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="ORQUESTRA MALUCA"tvg-logo="https://i.ytimg.com/vi/VFWyvehjr3o/hqdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",ORQUESTRA MALUCA
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ORQUESTRA%20MALUCA.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="DOIS BOEMIOS DO BARULHO"tvg-logo="https://i.ytimg.com/vi/XDvewW2Yq0U/hqdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",DOIS BOEMIOS DO BARULHO
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20OS%20BOEMIOS%20DO%20BARULHO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PAI E MAE POR ACASO"tvg-logo="https://i.ytimg.com/vi/0YyrRqiAt3k/hqdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",PAI E MAE POR ACASO
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20PAPAI%20E%20MAM%C3%83E%20POR%20ACASO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="UM AMOR DE CABRA"tvg-logo="https://media.fstatic.com/qmeVjXHe_vP-MG1MhV_7dLsgFeU=/210x303/smart/filters:format(webp)/media/movies/covers/2014/01/angora-love_tNone.jpg"group-title="SÉRIES | O GORDO E O MAGRO",UM AMOR DE CABRA
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20AMOR%20DE%20CABRITA.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="UM DUELO DE AMOR"tvg-logo="https://i.ytimg.com/vi/E0h9CEo-UQY/maxresdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",UM DUELO DE AMOR
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20DUELO%20DE%20AMOR.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="UM MOMENTO DE GLORIA"tvg-logo="https://i.ytimg.com/vi/8aEGRVZVcJw/hqdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",UM MOMENTO DE GLORIA
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20MOMENTO%20DE%20GL%C3%93RIA.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="UMA LUTA DE RISOS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9t-FkCN8JJPxXmmdtzE5kyMsWHTXJ5s8OA&usqp=CAU"group-title="SÉRIES | O GORDO E O MAGRO",UMA LUTA DE RISOS
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20DE%20RISOS.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="UMA LUTA SEM IGUAL"tvg-logo="https://i.ytimg.com/vi/zz6SW2ICP_Y/hqdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",UMA LUTA SEM IGUAL
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20SEM%20IGUAL.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="BOLA DE NEVE"tvg-logo="https://i.ytimg.com/vi/-kS13QTBd-I/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH4A4AC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLCeapKYz4f4r6yG0V2N0wVOlQu3KQ"group-title="SÉRIES | O GORDO E O MAGRO",BOLA DE NEVE
+https://ia800106.us.archive.org/22/items/OGORDOEOMAGROBOLADENEVE/O%20GORDO%20E%20O%20MAGRO%20-%20BOLA%20DE%20NEVE.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="ONESTIDADE VENCE"tvg-logo="https://i.ytimg.com/vi/10lM5ki59Jg/mqdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",ONESTIDADE VENCE
+https://ia600106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HONESTIDADE%20VENCE.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A CHAVE DO PROBLEMA"tvg-logo="https://i.ytimg.com/vi/_nU4_xeCSpc/sddefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",A CHAVE DO PROBLEMA
+https://ia600106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20GORDO%20E%20O%20MAGRO%20-%20A%20CHAVE%20DO%20PROBLEMA.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LIMPA CHAMINÉS"tvg-logo="https://i.ytimg.com/vi/GcyGewHXbWs/maxresdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",LIMPA CHAMINÉS
+https://ia600106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20GORDO%20E%20O%20MAGRO%20-%20LIMPA%20CHAMIN%C3%89.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="OLHO POR OLHO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfvmRwSBdP6OvSLw4Cj2f239Qq2fVb_Tm2fwV_G1evMfU6RX7b9kzwtu5JY5u150E0Fpk&usqp=CAU"group-title="SÉRIES | O GORDO E O MAGRO",OLHO POR OLHO 
+https://ia600106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20GORDO%20E%20O%20MAGRO%20-%20OLHO%20POR%20OLHO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="UM QUEBRA CABEÇA PARA CABEÇA DURA"tvg-logo="https://archive.org/services/img/o-gordo-e-o-magro-um-quebra-cabecas-para-cabecas-duras-colorido-1933/full/pct:200/0/default.jpg"group-title="SÉRIES | O GORDO E O MAGRO",UM QUEBRA CABEÇA PARA CABEÇA DURA
+https://ia800106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20QUEBRA%20CABE%C3%87A%20PARA%20CABE%C3%87AS%20DURAS.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="UMA MACACA E MUITO GALHO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdEXjEeyCYHovPe7NaYf5mL8GVPlIUrYOdmc7RQJLbJNwtqWRme-ssIQJ-15VsFqK_8hI&usqp=CAU"group-title="SÉRIES | O GORDO E O MAGRO",UMA MACACA E MUITO GALHO
+https://ia600106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20MACACA%20E%20MUITOS%20GALHOS.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="MESTRE DE BAILE"tvg-logo="https://i.pinimg.com/736x/dd/14/0a/dd140a311e7fa56e82f302cdbb49e4a2.jpg"group-title="SÉRIES | O GORDO E O MAGRO",MESTRE DE BAILE
+https://ia600106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20Gordo%20e%20o%20Magro%20Os%20Mestres%20Do%20Baile%20Dublado%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="UM PREFEITO PERFEITO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUUyeiHQAZaWDB0NnolEwIbY0z-iscaFLu5o_Q20U4RtjFIeJq46s1vT8WJ9Yr3JbTbE&usqp=CAU"group-title="SÉRIES | O GORDO E O MAGRO",UM PREFEITO PERFEITO
+https://ia600108.us.archive.org/29/items/OGORDOEOMAGROUMPREFEITOPERFEITO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20PREFEITO%20PERFEITO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Sossega, leão"tvg-logo="https://i.ytimg.com/vi/eP4dVt056TA/hqdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",SOSSEGA LEÃO
+https://ia803202.us.archive.org/33/items/o-gordo-e-o-magro-sossega-leao-p-b-1936/O%20Gordo%20e%20o%20Magro%20-%20Sossega%2C%20Le%C3%A3o%21%20%5BP%26B%281936%29%5D.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bi-dois "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiIqJCxaAfPXeixJJsa3MuEHApixQ5HLdXwZy-YxSWzkEaR4xhWR1Hd4ONxlvLWdAoSg&usqp=CAU"group-title="SÉRIES | O GORDO E O MAGRO",BI-DOIS
+https://ia801909.us.archive.org/30/items/o-gordo-e-o-magro-bi-dois-colorido-1933/O%20Gordo%20e%20o%20Magro%20-%20Bi-dois%20%5BColorido%281933%29%5D.ia.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Marinheiros de água"tvg-logo="https://4.bp.blogspot.com/_8L3yI_IGxRU/TEjmjgSrGII/AAAAAAAAAG4/BlH06Fw46lk/s1600/menowar.jpg"group-title="SÉRIES | O GORDO E O MAGRO",MARINHEIROS DE ÁGUA
+https://ia801905.us.archive.org/17/items/o-gordo-e-o-magro-marinheiros-de-agua-doce-colorido-1929/O%20Gordo%20e%20o%20Magro%20-%20Marinheiros%20de%20%C3%A1gua%20doce%20%5BColorido%281929%29%5D.ia.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O capitão e seu marujo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cWsNbyGWAe1wTS9VrBg0R5TGEpVDgVn3OGkBPXwGthRiUPkVGmzHW6CC2rmXk8RdJ6Y&usqp=CAU"group-title="SÉRIES | O GORDO E O MAGRO",O CAPITÃO E SEU MARUJO
+https://ia903203.us.archive.org/25/items/o-gordo-e-o-magro-o-capitao-e-seu-marujo-colorido-1932/O%20Gordo%20e%20o%20Magro%20-%20O%20Capit%C3%A3o%20e%20seu%20Marujo%20%5BColorido%281932%29%5D.ia.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="Uma boa ação nem sempre dá bom resultado"tvg-logo="https://i.ytimg.com/vi/UMOYzCalGwE/mqdefault.jpg"group-title="SÉRIES | O GORDO E O MAGRO",UMA BOA AÇÃO NEM SEMPRE DÁ BOM RESULTADO
+https://ia903202.us.archive.org/30/items/o-gordo-e-o-magro-uma-boa-acao-nem-sempre-da-bom-resultado-colorido-1931/O%20Gordo%20e%20o%20Magro%20-%20Uma%20boa%20a%C3%A7%C3%A3o%20nem%20sempre%20d%C3%A1%20bom%20resultado%21%20%5BColorido%281931%29%5D.ia.mp4
+
+
+
+################################################################# GOSTINHO DE AMOR S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gyu4jdD.png" group-title="Dorama | GOSTINHO DE AMOR S01",S01 E01
+http://shd13.oneplayer.site/SHD13/281006/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gyu4jdD.png" group-title="Dorama | GOSTINHO DE AMOR S01",S01 E02
+http://shd13.oneplayer.site/SHD13/281006/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gyu4jdD.png" group-title="Dorama | GOSTINHO DE AMOR S01",S01 E03
+http://shd13.oneplayer.site/SHD13/281006/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gyu4jdD.png" group-title="Dorama | GOSTINHO DE AMOR S01",S01 E04
+http://shd13.oneplayer.site/SHD13/281006/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gyu4jdD.png" group-title="Dorama | GOSTINHO DE AMOR S01",S01 E05
+http://shd13.oneplayer.site/SHD13/281006/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gyu4jdD.png" group-title="Dorama | GOSTINHO DE AMOR S01",S01 E06
+http://shd13.oneplayer.site/SHD13/281006/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gyu4jdD.png" group-title="Dorama | GOSTINHO DE AMOR S01",S01 E07
+http://shd13.oneplayer.site/SHD13/281006/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gyu4jdD.png" group-title="Dorama | GOSTINHO DE AMOR S01",S01 E08
+http://shd13.oneplayer.site/SHD13/281006/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gyu4jdD.png" group-title="Dorama | GOSTINHO DE AMOR S01",S01 E09
+http://shd13.oneplayer.site/SHD13/281006/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gyu4jdD.png" group-title="Dorama | GOSTINHO DE AMOR S01",S01 E10
+http://shd13.oneplayer.site/SHD13/281006/1x10.mp4
+
+
+################################################################# UM BOM GAROTO S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QDF5Eor.png" group-title="Dorama | UM BOM GAROTO S01",S01 E01
+http://shd13.oneplayer.site/SHD13/231280/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QDF5Eor.png" group-title="Dorama | UM BOM GAROTO S01",S01 E02
+http://shd13.oneplayer.site/SHD13/231280/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QDF5Eor.png" group-title="Dorama | UM BOM GAROTO S01",S01 E03
+http://shd13.oneplayer.site/SHD13/231280/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QDF5Eor.png" group-title="Dorama | UM BOM GAROTO S01",S01 E04
+http://shd13.oneplayer.site/SHD13/231280/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QDF5Eor.png" group-title="Dorama | UM BOM GAROTO S01",S01 E05
+http://shd13.oneplayer.site/SHD13/231280/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QDF5Eor.png" group-title="Dorama | UM BOM GAROTO S01",S01 E06
+http://shd13.oneplayer.site/SHD13/231280/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QDF5Eor.png" group-title="Dorama | UM BOM GAROTO S01",S01 E07
+http://shd13.oneplayer.site/SHD13/231280/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QDF5Eor.png" group-title="Dorama | UM BOM GAROTO S01",S01 E08
+http://shd13.oneplayer.site/SHD13/231280/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QDF5Eor.png" group-title="Dorama | UM BOM GAROTO S01",S01 E09
+http://shd13.oneplayer.site/SHD13/231280/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QDF5Eor.png" group-title="Dorama | UM BOM GAROTO S01",S01 E10
+http://shd13.oneplayer.site/SHD13/231280/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QDF5Eor.png" group-title="Dorama | UM BOM GAROTO S01",S01 E11
+http://shd13.oneplayer.site/SHD13/231280/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QDF5Eor.png" group-title="Dorama | UM BOM GAROTO S01",S01 E12
+http://shd13.oneplayer.site/SHD13/231280/1x12.mp4
+
+
+################################################################# UNICÓRNIO IMPLACÁVEL S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edvgo0f.png" group-title="Dorama | UNICÓRNIO IMPLACÁVEL S01",S01 E01
+http://shd13.oneplayer.site/SHD13/283776/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edvgo0f.png" group-title="Dorama | UNICÓRNIO IMPLACÁVEL S01",S01 E02
+http://shd13.oneplayer.site/SHD13/283776/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edvgo0f.png" group-title="Dorama | UNICÓRNIO IMPLACÁVEL S01",S01 E03
+http://shd13.oneplayer.site/SHD13/283776/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edvgo0f.png" group-title="Dorama | UNICÓRNIO IMPLACÁVEL S01",S01 E04
+http://shd13.oneplayer.site/SHD13/283776/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edvgo0f.png" group-title="Dorama | UNICÓRNIO IMPLACÁVEL S01",S01 E05
+http://shd13.oneplayer.site/SHD13/283776/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edvgo0f.png" group-title="Dorama | UNICÓRNIO IMPLACÁVEL S01",S01 E06
+http://shd13.oneplayer.site/SHD13/283776/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edvgo0f.png" group-title="Dorama | UNICÓRNIO IMPLACÁVEL S01",S01 E07
+http://shd13.oneplayer.site/SHD13/283776/1x7.mp4
+
+################################################################# SEM PIEDADE S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wa5CSme.png" group-title="Série | SEM PIEDADE S01",S01 E01
+http://shd13.oneplayer.site/SHD13/232766/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wa5CSme.png" group-title="Série | SEM PIEDADE S01",S01 E02
+http://shd13.oneplayer.site/SHD13/232766/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wa5CSme.png" group-title="Série | SEM PIEDADE S01",S01 E03
+http://shd13.oneplayer.site/SHD13/232766/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wa5CSme.png" group-title="Série | SEM PIEDADE S01",S01 E04
+http://shd13.oneplayer.site/SHD13/232766/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wa5CSme.png" group-title="Série | SEM PIEDADE S01",S01 E05
+http://shd13.oneplayer.site/SHD13/232766/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wa5CSme.png" group-title="Série | SEM PIEDADE S01",S01 E06
+http://shd13.oneplayer.site/SHD13/232766/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wa5CSme.png" group-title="Série | SEM PIEDADE S01",S01 E07
+http://shd13.oneplayer.site/SHD13/232766/1x7.mp4
+
+
+############################################################################ CLASSE DOS HERÓIS FRACOS S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S01",S01 E01
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S01",S01 E02
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S01",S01 E03
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S01",S01 E04
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S01",S01 E05
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S01",S01 E06
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S01",S01 E07
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S01",S01 E08
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x8.mp4
+
+
+############################################################################ CLASSE DOS HERÓIS FRACOS S02
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S02",S02 E01
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S02",S02 E02
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S02",S02 E03
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S02",S02 E04
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S02",S02 E05
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S02",S02 E06
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/2x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S02",S02 E07
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/2x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S02",S02 E08
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/2x8.mp4
+
+################################################################# UMA SEUL DESCONHECIDA S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E01
+http://shd13.oneplayer.site/SHD13/261980/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E02
+http://shd13.oneplayer.site/SHD13/261980/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E03
+http://shd13.oneplayer.site/SHD13/261980/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E04
+http://shd13.oneplayer.site/SHD13/261980/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E05
+http://shd13.oneplayer.site/SHD13/261980/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E06
+http://shd13.oneplayer.site/SHD13/261980/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E07
+http://shd13.oneplayer.site/SHD13/261980/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E08
+http://shd13.oneplayer.site/SHD13/261980/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E09
+http://shd13.oneplayer.site/SHD13/261980/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E10
+http://shd13.oneplayer.site/SHD13/261980/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E11
+http://shd13.oneplayer.site/SHD13/261980/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E12
+http://shd13.oneplayer.site/SHD13/261980/1x12.mp4
+
+
+
+
+
+gdrive128:
+https://drive128.gilliardgois210.workers.dev/0:/
+gdrive151:
+https://drive151.gilliardgois210.workers.dev/0:/
+gdrive209:
+https://drive209.gilliard/
+gdrive210: https://gilliardgois210.gilliardgois210.workers.dev/0:/
+gilliard:https://archive.org/details/@gilliard_gois
+drive 211:gois210.workers.dev/0:
+https://drive211.gilliardgois2086162.workers.dev/0:/
+drive 212:
+https://drive212.gilliardgois2086162.workers.dev/0:/
+drive 213:
+https://flmes208.gilliardgois2086162.workers.dev/0:/
+drive 220: https://drive220.gilliardgois210.workers.dev/0:/
+Drive221: 
+https://drive221.gilliardgois2086162.workers.dev/0:/
+homem vs abelha 
