@@ -3,9 +3,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://vetores.org/wp-content/uploads/multishow.png" group-title="CANAIS | FILMES E SÉRIES - MULTISHOW - SERVIDOR 1
-http://46.151.196.223:14048
-
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="https://assets.b9.com.br/wp-content/uploads/2015/07/mega1-920x517.jpg" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX
 http://169.197.140.199:14832
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDQ-27bdrzrNw5olkhAYisq9HjrJO-ez6zRUY6T9OrmWnqN7GDIT2RfgPVl62dFvtPL4w4FMWru_8gbRl9av2mxIYw9a3OFjTRB3dC-BWnQEmvA9Ewe9ZoZDUiyX1nJgmXqR028lJSzwe/s1600/cinemax-2014.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX
