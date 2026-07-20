@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://github.com/rootcoder/epgtv" 
 ##### https://raw.githubusercontent.com/pauloenriqque/tv/refs/heads/main/lista.m3u / https://bit.ly/listaphs1 #######
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="CANAIS | FILMES E SÉRIES",HISTÓRIAS ARRISCADAS C0M HENRY WINKLER
+https://www.youtube.com/watch?v=cYeIAzvJRzs&list=PLAr322Yg8UkAIpi6d20RnhGp2gaCVqXVX
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDQ-27bdrzrNw5olkhAYisq9HjrJO-ez6zRUY6T9OrmWnqN7GDIT2RfgPVl62dFvtPL4w4FMWru_8gbRl9av2mxIYw9a3OFjTRB3dC-BWnQEmvA9Ewe9ZoZDUiyX1nJgmXqR028lJSzwe/s1600/cinemax-2014.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX
 http://streamer.sattvacabo.com.br/CINEMAX/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="CANAIS | FILMES E SÉRIES",GLOBOPLAY NOVELAS
