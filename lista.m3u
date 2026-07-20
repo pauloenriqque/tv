@@ -50,11 +50,7 @@ https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRGpEQ03hrFY5YarXxzobZuZS9PmzZsXaTp6PVlH_qXZ5fgOg-kISEVTJIPo9oXUE5Lo&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",HALLO ANIME - SERVIDOR 1
 https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.fmi3WfSN3Wc8d5aBujG0DgHaDY?w=343&h=159&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",AMC - SERVIDOR 1
-http://46.151.196.223:14636
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.fmi3WfSN3Wc8d5aBujG0DgHaDY?w=343&h=159&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",AMC - SERVIDOR 2
 http://79.127.243.211:14565
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.fmi3WfSN3Wc8d5aBujG0DgHaDY?w=343&h=159&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",AMC - SERVIDOR 3
-https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/logohbosignature-min.png" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE - SERVIDOR 1
 http://46.151.196.223:14929
 #EXTINF:-1 tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/logohbosignature-min.png" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE - SERVIDOR 2
@@ -63,6 +59,10 @@ http://streamer.sattvacabo.com.br/HBO2/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4F
 http://79.127.243.211:14668
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/689b6e66975335.5b2ac2d3085cc.jpg" group-title="CANAIS | FILMES E SÉRIES",HBO+ - SERVIDOR 1
 http://streamer.sattvacabo.com.br/HBO_PLUS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="CANAIS | FILMES E SÉRIES",HBO - SERVIDOR 1
+http://79.127.243.211:14668
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="CANAIS | FILMES E SÉRIES",HBO - SERVIDOR 2
+http://streamer.sattvacabo.com.br/HBO/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_2.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2 - SERVIDOR 1
 http://79.127.243.211:14660
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_2.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2 - SERVIDOR 2
@@ -76,9 +76,7 @@ https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.meuguia.tv/logos/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM - SERVIDOR 1
 https://cdn-5.nxplay.com.br/TCM_TK/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.lDS8LGQmvx_Grjp-AJ80jgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",TNT - SERVIDOR 1
-https://cdn-5.nxplay.com.br/TNT_TK/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.lDS8LGQmvx_Grjp-AJ80jgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",TNT - SERVIDOR 2
-https://cdn-5.nxplay.com.br/TNT_TK/tracks-v1a1/index.m3u8
+http://79.127.243.211:14615
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wq1r13HcuhW0DALmiB4vOuudUzoXgZEiR7xwO5Xyw5ewTOqFsGjQmW1st0dAEoJ7oMW4oDPB=s160-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS - SERVIDOR 1
 http://185.246.208.74:14941/
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zXDMuXVkpUWS1gQJ5ESBygAAAA?w=130&h=180&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES - SERVIDOR 1
@@ -92,9 +90,7 @@ https://cdn-5.nxplay.com.br/SPACE_TK/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0mZlLN21WOrAtwdSbQrgibNS9NspaXoIMw&s" group-title="CANAIS | FILMES E SÉRIES",SONY CHANNEL - SERVIDOR 1
 https://cdn-5.nxplay.com.br/SONY_CHANNEL/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dL3xeYjH8ww/XvuJsizX6RI/AAAAAAAAHIQ/FC5S-H7Ys6QZM-TJGTBgRp3GP4tlhTMYgCNcBGAsYHQ/s1600/RECORD%2BPNG.png" group-title="CANAIS | FILMES E SÉRIES",TC ACTION - SERVIDOR 1
-http://46.151.196.223:14326
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dL3xeYjH8ww/XvuJsizX6RI/AAAAAAAAHIQ/FC5S-H7Ys6QZM-TJGTBgRp3GP4tlhTMYgCNcBGAsYHQ/s1600/RECORD%2BPNG.png" group-title="CANAIS | FILMES E SÉRIES",TC ACTION - SERVIDOR 2
-http://46.151.196.223:14328
+http://79.127.243.211:14632
 #EXTINF:-1 tvg-logo="https://archive.org/download/brunoflixlogos/tc_fun.png" group-title="CANAIS | FILMES E SÉRIES",TC FUN - SERVIDOR 1
 http://46.151.196.223:14337
 #EXTINF:-1 tvg-logo="https://archive.org/download/brunoflixlogos/tc_fun.png" group-title="CANAIS | FILMES E SÉRIES",TC FUN - SERVIDOR 2
@@ -107,18 +103,8 @@ http://79.127.243.211:14644
 http://46.151.196.223:14344
 #EXTINF:-1 tvg-logo="https://ofertasclaro.com.br/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fofertasclaro%2FaC8OYSdWJ-7kScAq_TelecinePremium.webp%3Fauto%3Dformat%252Ccompress%26rect%3D0%252C14%252C266%252C150%26w%3D275%26h%3D155&w=1920&q=75" group-title="CANAIS | FILMES E SÉRIES",TC PREMIUM - SERVIDOR 1
 http://79.127.243.211:14648
-#EXTINF:-1 tvg-logo="https://ofertasclaro.com.br/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fofertasclaro%2FaC8OYSdWJ-7kScAq_TelecinePremium.webp%3Fauto%3Dformat%252Ccompress%26rect%3D0%252C14%252C266%252C150%26w%3D275%26h%3D155&w=1920&q=75" group-title="CANAIS | FILMES E SÉRIES",TC PREMIUM - SERVIDOR 2
-http://46.151.196.223:14349
-#EXTINF:-1 tvg-logo="https://ofertasclaro.com.br/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fofertasclaro%2FaC8OYSdWJ-7kScAq_TelecinePremium.webp%3Fauto%3Dformat%252Ccompress%26rect%3D0%252C14%252C266%252C150%26w%3D275%26h%3D155&w=1920&q=75" group-title="CANAIS | FILMES E SÉRIES",TC PREMIUM - SERVIDOR 3
-http://46.151.196.223:14350
-#EXTINF:-1 tvg-logo="https://ofertasclaro.com.br/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fofertasclaro%2FaC8PeCdWJ-7kScBi_TelecineCult.webp%3Fauto%3Dformat%252Ccompress%26rect%3D0%252C14%252C266%252C150%26w%3D275%26h%3D155&w=1920&q=75" group-title="CANAIS | FILMES E SÉRIES",TC CULT - SERVIDOR 1
-http://46.151.196.223:14335
 #EXTINF:-1 tvg-logo="https://www.programacao.tv/imagens/tc-touch.webp" group-title="CANAIS | FILMES E SÉRIES",TC TOUCH - SERVIDOR 1
-http://46.151.196.223:14355
-#EXTINF:-1 tvg-logo="https://www.programacao.tv/imagens/tc-touch.webp" group-title="CANAIS | FILMES E SÉRIES",TC TOUCH - SERVIDOR 2
 http://79.127.243.211:14652
-#EXTINF:-1 tvg-logo="https://www.programacao.tv/imagens/tc-touch.webp" group-title="CANAIS | FILMES E SÉRIES",TC TOUCH - SERVIDOR 3
-http://46.151.196.223:14356
 #EXTINF:-1 tvg-logo="https://filmandarts.com.br/theme/assets/fa_br_white_small_v2.png" group-title="CANAIS | FILMES E SÉRIES",FILM & ARTS - SERVIDOR 1
 https://cdn-5.nxplay.com.br/Film_Arts_Brasil_TK/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.urban.tv.br/canais/logo-urbanmovies.jpg" group-title="CANAIS | FILMES E SÉRIES",URBAN FILMES - SERVIDOR 1
@@ -129,8 +115,6 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04b0e30e-c394-4e4f-b4bb-b0bb99c50e22/dguht0o-6322048e-8e3c-4a36-bcde-b760662245a3.png/v1/fill/w_1280,h_327/axn_logo_combination__2001___2015__by_vincerabina_dguht0o-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzI3IiwicGF0aCI6Ii9mLzA0YjBlMzBlLWMzOTQtNGU0Zi1iNGJiLWIwYmI5OWM1MGUyMi9kZ3VodDBvLTYzMjIwNDhlLThlM2MtNGEzNi1iY2RlLWI3NjA2NjIyNDVhMy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tSOE7Au9zmn8ohkcm4yWTGZKrbQ-FthozbcPkq2yAl4" group-title="CANAIS | FILMES E SÉRIES",AXN - SERVIDOR 1
 http://79.127.243.211:14569
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04b0e30e-c394-4e4f-b4bb-b0bb99c50e22/dguht0o-6322048e-8e3c-4a36-bcde-b760662245a3.png/v1/fill/w_1280,h_327/axn_logo_combination__2001___2015__by_vincerabina_dguht0o-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzI3IiwicGF0aCI6Ii9mLzA0YjBlMzBlLWMzOTQtNGU0Zi1iNGJiLWIwYmI5OWM1MGUyMi9kZ3VodDBvLTYzMjIwNDhlLThlM2MtNGEzNi1iY2RlLWI3NjA2NjIyNDVhMy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tSOE7Au9zmn8ohkcm4yWTGZKrbQ-FthozbcPkq2yAl4" group-title="CANAIS | FILMES E SÉRIES",AXN - SERVIDOR 2
-https://cdn-5.nxplay.com.br/AXN_TK/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/giYHPpUs_xAU8Tim6CKX2d-3_gg6YXIzMo5o1LuZVKJjJsEO8_cHhMSUYnQj-pFAedRQ" group-title="CANAIS | FILMES E SÉRIES",Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.programacao.tv/imagens/tv-sonata.webp" group-title="CANAIS | FILMES E SÉRIES",TV Sonata
@@ -156,15 +140,13 @@ https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_s6RXzLM9AeNxZZAqFUcmgijdkPApc_4slA&s" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET - SERVIDOR 1
 http://79.127.243.211:14370
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_s6RXzLM9AeNxZZAqFUcmgijdkPApc_4slA&s" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET - SERVIDOR 2
-https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/tracks-v2a1/index.m3u8
+http://79.127.243.211:14370
 #EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/E-Entertainment-Television-logo-1990s.png?resize=152%2C320" group-title="CANAIS | DOCUMENTARIOS",E! - SERVIDOR 1
 http://46.151.196.223:14385
 #EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/E-Entertainment-Television-logo-1990s.png?resize=152%2C320" group-title="CANAIS | DOCUMENTARIOS",E! - SERVIDOR 2
 http://46.151.196.223:14386
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXSUqKqXVA2U-hwjhXlv3RJyLPw5WKoE81zXtGJ5L5Dd3uF6ceATKAyJyeREQcPnyc8JtLQRFkC2XIdD634v3sC7DPO_lTmorzyh4ro8oaGPt8TfvotR6BQOvCq57_Stdw1YG2mdjS_jE/s1600/D.Turbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO - SERVIDOR 1
 http://79.127.243.211:14785
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXSUqKqXVA2U-hwjhXlv3RJyLPw5WKoE81zXtGJ5L5Dd3uF6ceATKAyJyeREQcPnyc8JtLQRFkC2XIdD634v3sC7DPO_lTmorzyh4ro8oaGPt8TfvotR6BQOvCq57_Stdw1YG2mdjS_jE/s1600/D.Turbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO - SERVIDOR 2
-https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO - SERVIDOR 3
 http://185.152.67.187:14367/
 #EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 1
@@ -200,6 +182,12 @@ https://cdn-5.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/index.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AH3uBDj.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK
 http://200.229.190.189:8001/play/a01g
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | VARIEDADES",TV RATIMBUM
+http://79.127.243.211:14432
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | VARIEDADES",CM PORTUGAL
+http://79.127.243.211:14638
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | VARIEDADES",CANAL BRASIL
+http://79.127.243.211:14573
 #EXTINF:-1 tvg-logo="https://linktr.ee/og/image/Canal_do_Criador.jpg" group-title="CANAIS | VARIEDADES",CANAL DO CRIADOR - SERVIDOR 1
 http://187.120.222.12:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vSKVrvH.png" group-title="CANAIS | VARIEDADES",NEW BRASIL - SERVIDOR 1
@@ -220,8 +208,10 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-wbf1P_idNc4/TlkvNwg3j2I/AAAAAAAADPs/JUkDgc7eTE4/w1200-h630-p-k-no-nu/rede+super.jpg" group-title="CANAIS | VARIEDADES",REDE SUPER- SERVIDOR 1
 http://168.205.87.198:8555/live/1492/123456/163.m3u8
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="CANAIS | VARIEDADES", LOVE NATURE - SERVIDOR 1
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="" group-title="CANAIS | VARIEDADES", BIS - SERVIDOR 1
+http://79.127.243.211:14286
+#EXTINF:-1 tvg-logo="" group-title="CANAIS | VARIEDADES", GNT - SERVIDOR 1
+http://79.127.243.211:14312
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="CANAIS | VARIEDADES", PLUTO TV NATUREZA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=271&deviceId=5f1213ba0ecebc00070e170f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://www.jornalafolha.com.br/uploads/images/2025/07/tv-parana-turismo-busca-novos-conteudos-audiovisuais-sobre-o-estado-inscricoes-estao-abertas-02c4.webp" group-title="CANAIS | VARIEDADES", PARANÁ TURISMO
@@ -247,7 +237,11 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/portaldatv.com.br/wp-content/uploads/2025/04/tv-cultura-programacao.png?fit=640%2C360&ssl=1" group-title="CANAIS | ABERTOS",TV CULTURA - SERVIDOR 2
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
 #EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="CANAIS | ABERTOS",SBT - SERVIDOR 1
+http://79.127.243.211:14672
+#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="CANAIS | ABERTOS",SBT - SERVIDOR 2
 http://187.120.222.12:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2019/11/redetv-apresenta-nova-identidade-visual.png" group-title="CANAIS | ABERTOS",REDETV - SERVIDOR 1
+http://79.127.243.211:14970
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jornaldachapada.com.br/wp-content/uploads/2012/06/tv-bahia.jpg?w=630&ssl=1" group-title="CANAIS | ABERTOS",GLOBO BA - SERVIDOR 1
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/76/80/cb768057ae5472d7b1f1f17ce60737ed.jpg" group-title="CANAIS | ABERTOS",TV GAZETA - SERVIDOR 1
@@ -259,13 +253,15 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/76/80/cb768057ae5472d7b1f1f17ce60737ed.jpg" group-title="CANAIS | ABERTOS",GLOBO SP - SERVIDOR 1
 http://200.77.176.130:8000/udp/224.0.0.1:49152
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS",RECORD SP - SERVIDOR 1
-
+http://79.127.243.211:14640
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS",RECORD SP - SERVIDOR 3
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS",RECORD SC - SERVIDOR 1
 http://187.120.222.12:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.band.com.br/image/2025/06/25/band-campinas-165533_400x300.webp" group-title="CANAIS | ABERTOS",BAND SP - SERVIDOR 2
 http://187.120.222.12:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.band.com.br/image/2025/06/25/band-campinas-165533_400x300.webp" group-title="CANAIS | ABERTOS",BAND SP - SERVIDOR 3
+http://79.127.243.211:14703
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/original/bandnews-logo_bc6f60bb73800d02c05386c5810d73e6023376d5.jpeg" group-title="CANAIS | NOTICIAS",BAND NEWS - SERVIDOR 1
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="CANAIS | NOTICIAS",SBT NEWS - SERVIDOR 1
@@ -273,42 +269,52 @@ https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlis
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.tpArfNgI7BfZt2lKJp9RkAHaHa?rs=1&pid=ImgDetMain" group-title="CANAIS | NOTICIAS",GLOBO NEWS - SERVIDOR 1
 http://79.127.238.228:14093
-#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE  - SERVIDOR 1
-http://79.127.238.228:14157
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.tpArfNgI7BfZt2lKJp9RkAHaHa?rs=1&pid=ImgDetMain" group-title="CANAIS | NOTICIAS",GLOBO NEWS - SERVIDOR 2
+http://79.127.243.211:14254
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.tpArfNgI7BfZt2lKJp9RkAHaHa?rs=1&pid=ImgDetMain" group-title="CANAIS | NOTICIAS",JOVEM PAN - SERVIDOR 1
+http://79.127.243.211:14258
 #EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE  - SERVIDOR 2
+http://79.127.238.228:14157
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE  - SERVIDOR 1
 http://45.235.0.78/Premiere_Clubes/index.m3u8
-#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 2  - SERVIDOR 1
-http://79.127.243.211:14481
 #EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 2  - SERVIDOR 2
+http://79.127.243.211:14481
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 2  - SERVIDOR 1
 http://45.235.0.78/Premiere_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 3  - SERVIDOR 1
-http://79.127.243.211:14485
 #EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 3  - SERVIDOR 2
+http://79.127.243.211:14485
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 3  - SERVIDOR 1
 http://45.235.0.78/Premiere_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 4  - SERVIDOR 1
-http://79.127.243.211:14489
 #EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 4  - SERVIDOR 2
+http://79.127.243.211:14489
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 4  - SERVIDOR 1
 http://45.235.0.78/Premiere_4/index.m3u8
-#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 5  - SERVIDOR 1
-http://79.127.243.211:14493
 #EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 5  - SERVIDOR 2
+http://79.127.243.211:14493
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 5  - SERVIDOR 1
 http://45.235.0.78/Premiere_5/index.m3u8
-#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 6  - SERVIDOR 1
-http://79.127.243.211:14497
 #EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 6  - SERVIDOR 2
+http://79.127.243.211:14497
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 6  - SERVIDOR 1
 http://45.235.0.78/Premiere_6/index.m3u8
 #EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 7  - SERVIDOR 1
 http://79.127.243.211:14501
-#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 7  - SERVIDOR 1
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 7  - SERVIDOR 2
 http://45.235.0.78/Premiere_7/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png" group-title="CANAIS | ESPORTES",PARAMOUNT+ - SERVIDOR 1
-http://79.127.243.211:14649
+http://79.127.243.211:14653
+#EXTINF:-1 tvg-logo="https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png" group-title="CANAIS | ESPORTES",PARAMOUNT+ - SERVIDOR 2
+http://79.127.243.211:14657
+#EXTINF:-1 tvg-logo="https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png" group-title="CANAIS | ESPORTES",PARAMOUNT+ - SERVIDOR 3
+http://79.127.243.211:14658
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFjqzRGUpN1bU4HthvaZFLSoiNhXpNGIn4rB-qH--QSca48KLqkh2ulPubLrxc8yMrhVQ&usqp=CAU" group-title="CANAIS | ESPORTES",CAZÉ TV - SERVIDOR 1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFjqzRGUpN1bU4HthvaZFLSoiNhXpNGIn4rB-qH--QSca48KLqkh2ulPubLrxc8yMrhVQ&usqp=CAU" group-title="CANAIS | ESPORTES",CAZÉ TV - SERVIDOR 2
+http://79.127.243.211:14697
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/programacao/images/d/dc/ESPN_4_Logo_tipo.jpg/revision/latest?cb=20220117191627&path-prefix=pt-br" group-title="CANAIS | ESPORTES",ESPN 4 - SERVIDOR 1
 http://46.151.196.223:14450/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/programacao/images/d/dc/ESPN_4_Logo_tipo.jpg/revision/latest?cb=20220117191627&path-prefix=pt-br" group-title="CANAIS | ESPORTES",ESPN 4 - SERVIDOR 2
@@ -324,13 +330,9 @@ http://46.151.196.223:14455
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="CANAIS | ESPORTES",ESPN 5 - SERVIDOR 2
 https://cdn-5.nxplay.com.br/ESPN_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/10/ESPN3_Logo_Resize2.jpg" group-title="CANAIS | ESPORTES",ESPN 3 - SERVIDOR 1
-http://46.151.196.223:14442
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/10/ESPN3_Logo_Resize2.jpg" group-title="CANAIS | ESPORTES",ESPN 3 - SERVIDOR 2
-https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
+http://79.127.243.211:14510
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="CANAIS | ESPORTES",ESPN 2 - SERVIDOR 1
-http://46.151.196.223:14553
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="CANAIS | ESPORTES",ESPN 2 - SERVIDOR 2
-https://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
+http://79.127.243.211:14506
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="CANAIS | ESPORTES",ESPN - SERVIDOR 1
 http://46.151.196.223:14366
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="CANAIS | ESPORTES",ESPN - SERVIDOR 2
@@ -340,15 +342,13 @@ https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="CANAIS | ESPORTES",ESPN - SERVIDOR 4
 https://cdn-5.nxplay.com.br/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-NqjM4CiTZiqM_COMejCQoDzybI4j19khJQ&s" group-title="CANAIS | ESPORTES",COMBATE SERVIDOR 1
-http://46.151.196.223:14468
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-NqjM4CiTZiqM_COMejCQoDzybI4j19khJQ&s" group-title="CANAIS | ESPORTES",COMBATE SERVIDOR 2
 http://79.127.243.211:14449
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="CANAIS | ESPORTES",SPORTV SERVIDOR 1
 https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="CANAIS | ESPORTES",SPORTV SERVIDOR 2
 http://46.151.196.223:14286
 #EXTINF:-1 tvg-logo="https://teleguiado.com/wp-content/uploads/2022/08/SPORTV-2.png" group-title="CANAIS | ESPORTES",SPORTV 2 SERVIDOR 1
-http://79.127.243.211:14469
+http://79.127.243.211:14473
 #EXTINF:-1 tvg-logo="https://teleguiado.com/wp-content/uploads/2022/08/SPORTV-3.png" group-title="CANAIS | ESPORTES",SPORTV 3 SERVIDOR 1
 http://79.127.243.211:14473
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "CANAIS | ESPORTES",SPORTV 3 SERVIDOR 2
