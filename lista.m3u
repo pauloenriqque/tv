@@ -5,8 +5,6 @@
 http://streamer.sattvacabo.com.br/CINEMAX/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="CANAIS | FILMES E SÉRIES",GLOBOPLAY NOVELAS
 http://79.127.238.228:14455/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/05E0q6L.png" group-title="CANAIS | FILMES E SÉRIES",TV GALLO
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="CANAIS | FILMES E SÉRIES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/warner-bros-logo.jpg?q=50&fit=crop&w=1600&h=900&dpr=1.5" group-title="CANAIS | FILMES E SÉRIES",WARNER BROS TV - SERVIDOR 1
@@ -45,6 +43,8 @@ https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
 http://79.127.243.211:14565
 #EXTINF:-1 tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/logohbosignature-min.png" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE - SERVIDOR 1
 http://46.151.196.223:14929
+#EXTINF:-1 tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/logohbosignature-min.png" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE - SERVIDOR 2
+http://streamer.sattvacabo.com.br/HBO_SIGNATURE/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.NmHkr4X3Pej9HFc4IE65aQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",HBO - SERVIDOR 1
 http://79.127.243.211:14668
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/689b6e66975335.5b2ac2d3085cc.jpg" group-title="CANAIS | FILMES E SÉRIES",HBO+ - SERVIDOR 1
@@ -58,11 +58,9 @@ http://streamer.sattvacabo.com.br/HBO2/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4F
 #EXTINF:-1 tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-mundi-252x252.png" group-title="CANAIS | FILMES E SÉRIES",HBO MUNDI - SERVIDOR 1
 http://185.236.183.118:16413/
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_FAMILY.png" group-title="CANAIS | FILMES E SÉRIES",HBO FAMILY - SERVIDOR 1
-http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
+http://streamer.sattvacabo.com.br/HBO_FAMILY/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-logo="https://www.filmelier.com/images/optimized/filmelier-logo_153x20.webp" group-title="CANAIS | FILMES E SÉRIES",FILMELIER - SERVIDOR 2
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.meuguia.tv/logos/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM - SERVIDOR 1
-https://cdn-5.nxplay.com.br/TCM_TK/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.lDS8LGQmvx_Grjp-AJ80jgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",TNT - SERVIDOR 1
 http://79.127.243.211:14615
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wq1r13HcuhW0DALmiB4vOuudUzoXgZEiR7xwO5Xyw5ewTOqFsGjQmW1st0dAEoJ7oMW4oDPB=s160-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS - SERVIDOR 1
@@ -81,8 +79,6 @@ http://46.151.196.223:14337
 http://46.151.196.223:14340
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Tcpipocab.jpg/revision/latest?cb=20200817021740&path-prefix=pt-br" group-title="CANAIS | FILMES E SÉRIES",TC PIPOCA - SERVIDOR 1
 http://46.151.196.223:14343
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Tcpipocab.jpg/revision/latest?cb=20200817021740&path-prefix=pt-br" group-title="CANAIS | FILMES E SÉRIES",TC PIPOCA - SERVIDOR 2
-http://79.127.243.211:14644
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Tcpipocab.jpg/revision/latest?cb=20200817021740&path-prefix=pt-br" group-title="CANAIS | FILMES E SÉRIES",TC PIPOCA - SERVIDOR 3
 http://46.151.196.223:14344
 #EXTINF:-1 tvg-logo="https://ofertasclaro.com.br/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fofertasclaro%2FaC8OYSdWJ-7kScAq_TelecinePremium.webp%3Fauto%3Dformat%252Ccompress%26rect%3D0%252C14%252C266%252C150%26w%3D275%26h%3D155&w=1920&q=75" group-title="CANAIS | FILMES E SÉRIES",TC PREMIUM - SERVIDOR 1
@@ -101,7 +97,7 @@ http://79.127.243.211:14569
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televisao.tv/images/tv-jsid.jpg" group-title="CANAIS | FILMES E SÉRIES",TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBvKGt2w_yehXYMzMRnDBXXItm5l8huQC5gg&s" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL - SERVIDOR 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBvKGt2w_yehXYMzMRnDBXXItm5l8huQC5gg&s" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL - SERVIDOR 1
 http://79.127.243.211:14623
 #EXTINF:-1 tvg-logo="https://portalp1.com.br/wp-content/uploads/2020/06/Logotipo-da-SIC-TV.jpg" group-title="CANAIS | INTERNACIONAIS",SIC - SERVIDOR 1
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
