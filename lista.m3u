@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="https://github.com/rootcoder/epgtv" 
 ##### https://raw.githubusercontent.com/pauloenriqque/tv/refs/heads/main/lista.m3u / https://bit.ly/listaphs1 #######
 
-
-
-
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDQ-27bdrzrNw5olkhAYisq9HjrJO-ez6zRUY6T9OrmWnqN7GDIT2RfgPVl62dFvtPL4w4FMWru_8gbRl9av2mxIYw9a3OFjTRB3dC-BWnQEmvA9Ewe9ZoZDUiyX1nJgmXqR028lJSzwe/s1600/cinemax-2014.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX
 http://streamer.sattvacabo.com.br/CINEMAX/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="CANAIS | FILMES E SÉRIES",GLOBOPLAY NOVELAS
@@ -106,10 +103,6 @@ https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBvKGt2w_yehXYMzMRnDBXXItm5l8huQC5gg&s" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL - SERVIDOR 2
 http://79.127.243.211:14623
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tellymix.co.uk/wp-content/uploads/2021/02/bbc-one-logo-b.jpg?resize=1500%2C844&ssl=1" group-title="CANAIS | INTERNACIONAIS",BBC 1 - SERVIDOR 1
-http://41.205.93.154/BBCONE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tellymix.co.uk/wp-content/uploads/2022/01/bbc-three-logo.jpg?resize=1500%2C844&ssl=1" group-title="CANAIS | INTERNACIONAIS",BBC 3 - SERVIDOR 1
-http://41.205.93.154/BBCTHREE/index.m3u8
 #EXTINF:-1 tvg-logo="https://portalp1.com.br/wp-content/uploads/2020/06/Logotipo-da-SIC-TV.jpg" group-title="CANAIS | INTERNACIONAIS",SIC - SERVIDOR 1
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_0,y_0,h_733,w_1100/c_fill,w_860,h_573/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv" group-title="CANAIS | INTERNACIONAIS",RED BULL - SERVIDOR 1
