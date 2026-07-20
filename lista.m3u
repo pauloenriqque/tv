@@ -333,14 +333,8 @@ https://cdn-5.nxplay.com.br/ESPN_5/index.m3u8
 http://79.127.243.211:14510
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="CANAIS | ESPORTES",ESPN 2 - SERVIDOR 1
 http://79.127.243.211:14506
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="CANAIS | ESPORTES",ESPN - SERVIDOR 1
-http://46.151.196.223:14366
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="CANAIS | ESPORTES",ESPN - SERVIDOR 2
-https://cr7v.short.gy/live25/spn/Index.m3u8
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="CANAIS | ESPORTES",ESPN - SERVIDOR 3
 https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="CANAIS | ESPORTES",ESPN - SERVIDOR 4
-https://cdn-5.nxplay.com.br/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-NqjM4CiTZiqM_COMejCQoDzybI4j19khJQ&s" group-title="CANAIS | ESPORTES",COMBATE SERVIDOR 1
 http://79.127.243.211:14449
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="CANAIS | ESPORTES",SPORTV SERVIDOR 1
