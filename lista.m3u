@@ -60,6 +60,10 @@ http://79.127.243.211:14660
 http://streamer.sattvacabo.com.br/HBO2/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-mundi-252x252.png" group-title="CANAIS | FILMES E SÉRIES",HBO MUNDI - SERVIDOR 1
 http://185.236.183.118:16413/
+#EXTINF:-1 tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-mundi-252x252.png" group-title="CANAIS | FILMES E SÉRIES",HBO MUNDI - SERVIDOR 2
+https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/720p.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2FqMpfC/hbo-xtreme.png" group-title="CANAIS | FILMES E SÉRIES",HBO XTREME - SERVIDOR 1
+https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/720p.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_FAMILY.png" group-title="CANAIS | FILMES E SÉRIES",HBO FAMILY - SERVIDOR 1
 http://streamer.sattvacabo.com.br/HBO_FAMILY/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-logo="https://www.filmelier.com/images/optimized/filmelier-logo_153x20.webp" group-title="CANAIS | FILMES E SÉRIES",FILMELIER - SERVIDOR 2
