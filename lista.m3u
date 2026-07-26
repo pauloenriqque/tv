@@ -72,12 +72,18 @@ http://streamer.sattvacabo.com.br/HBO_FAMILY/index.m3u8?token=TLGacFXd0gIXIuo2u8
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.lDS8LGQmvx_Grjp-AJ80jgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",TNT - SERVIDOR 1
 http://79.127.243.211:14615
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wq1r13HcuhW0DALmiB4vOuudUzoXgZEiR7xwO5Xyw5ewTOqFsGjQmW1st0dAEoJ7oMW4oDPB=s160-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS - SERVIDOR 1
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.lDS8LGQmvx_Grjp-AJ80jgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",TNT - SERVIDOR 2
+http://177.52.24.163/TNT-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wq1r13HcuhW0DALmiB4vOuudUzoXgZEiR7xwO5Xyw5ewTOqFsGjQmW1st0dAEoJ7oMW4oDPB=s160-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS - SERVIDOR 2
 http://185.246.208.74:14941/
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wq1r13HcuhW0DALmiB4vOuudUzoXgZEiR7xwO5Xyw5ewTOqFsGjQmW1st0dAEoJ7oMW4oDPB=s160-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS - SERVIDOR 1
+http://177.52.24.163/TNT-NOVELAS-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zXDMuXVkpUWS1gQJ5ESBygAAAA?w=130&h=180&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES - SERVIDOR 1
 http://79.127.243.211:14619
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zXDMuXVkpUWS1gQJ5ESBygAAAA?w=130&h=180&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES - SERVIDOR 2
 http://185.246.208.74:14944/
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zXDMuXVkpUWS1gQJ5ESBygAAAA?w=130&h=180&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES - SERVIDOR 3
+http://177.52.24.163/TNT-SERIES-HD/index.m3u8 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.9M69eKHaaIQ_NzEuPkvEvQAAAA?w=202&h=176&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",SPACE - SERVIDOR 1
 http://46.151.196.223:14607
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dL3xeYjH8ww/XvuJsizX6RI/AAAAAAAAHIQ/FC5S-H7Ys6QZM-TJGTBgRp3GP4tlhTMYgCNcBGAsYHQ/s1600/RECORD%2BPNG.png" group-title="CANAIS | FILMES E SÉRIES",TC ACTION - SERVIDOR 1
@@ -126,7 +132,7 @@ https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_s6RXzLM9AeNxZZAqFUcmgijdkPApc_4slA&s" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET - SERVIDOR 1
 http://79.127.243.211:14370
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_s6RXzLM9AeNxZZAqFUcmgijdkPApc_4slA&s" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET - SERVIDOR 2
-http://79.127.243.211:14370
+http://177.52.24.163/ANIMAL-PLANET-HD/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/E-Entertainment-Television-logo-1990s.png?resize=152%2C320" group-title="CANAIS | DOCUMENTARIOS",E! - SERVIDOR 1
 http://46.151.196.223:14385
 #EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/E-Entertainment-Television-logo-1990s.png?resize=152%2C320" group-title="CANAIS | DOCUMENTARIOS",E! - SERVIDOR 2
@@ -135,12 +141,14 @@ http://46.151.196.223:14386
 http://79.127.243.211:14785
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO - SERVIDOR 3
 http://185.152.67.187:14367/
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO - SERVIDOR 4
+http://177.52.24.163/DISCOVERY-TURBO-HD/index.m3u8 
 #EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 1
 http://185.152.67.187:14343
 #EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 2
 http://79.127.243.211:14773
 #EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 3
-https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/index.m3u8
+http://177.52.24.163/DISCOVERY-CHANNEL-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 4
 http://46.151.196.223:14074
 #EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 4
@@ -156,7 +164,7 @@ https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062019/img_20190616_125035.png?Sh2c6.H4ophoFPCVogkr7oeHbgMMck.Y&itok=2YGpTwKI" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD - SERVIDOR 1
 http://79.127.243.211:14789
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062019/img_20190616_125035.png?Sh2c6.H4ophoFPCVogkr7oeHbgMMck.Y&itok=2YGpTwKI" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD - SERVIDOR 2
-https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/tracks-v2a1/index.m3u8
+http://177.52.24.163/DISCOVERY-WORLD-HD/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/2021-HISTORY-LOGO-3K-RGB-750x375.jpg" group-title="CANAIS | DOCUMENTARIOS",HISTORY
 http://177.52.24.163/HISTORY-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://voxnews.com.br/wp-content/uploads/2022/02/H2-FLAT-RGB-300x300.jpg" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 - SERVIDOR 1
