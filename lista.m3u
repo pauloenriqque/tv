@@ -128,7 +128,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.vOxdL6h8SYaisnnmhHYzqgHaHx?w=158&h=180&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE - SERVIDOR 1
-https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/tracks-v2a1/index.m3u8
+http://177.52.24.163/DISCOVERY-SCIENCE-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_s6RXzLM9AeNxZZAqFUcmgijdkPApc_4slA&s" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET - SERVIDOR 1
 http://79.127.243.211:14370
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_s6RXzLM9AeNxZZAqFUcmgijdkPApc_4slA&s" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET - SERVIDOR 2
