@@ -228,10 +228,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fb
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/portaldatv.com.br/wp-content/uploads/2025/04/tv-cultura-programacao.png?fit=640%2C360&ssl=1" group-title="CANAIS | ABERTOS",TV CULTURA - SERVIDOR 2
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
-#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="CANAIS | ABERTOS",SBT - SERVIDOR 1
-http://79.127.243.211:14672
-#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="CANAIS | ABERTOS",SBT - SERVIDOR 2
-http://187.120.222.12:8000/play/a06f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2019/11/redetv-apresenta-nova-identidade-visual.png" group-title="CANAIS | ABERTOS",REDETV - SERVIDOR 1
 http://79.127.243.211:14970
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jornaldachapada.com.br/wp-content/uploads/2012/06/tv-bahia.jpg?w=630&ssl=1" group-title="CANAIS | ABERTOS",GLOBO BA - SERVIDOR 1
@@ -240,15 +237,13 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jornaldachapada.com.br/wp-content/uploads/2012/06/tv-bahia.jpg?w=630&ssl=1" group-title="CANAIS | ABERTOS",GLOBO SP - SERVIDOR 1
 https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/76/80/cb768057ae5472d7b1f1f17ce60737ed.jpg" group-title="CANAIS | ABERTOS",TV GAZETA - SERVIDOR 1
-http://cdn38246.radiogaucha.net:80/f0nt3-tourobox-2819/Jdm8hXSSR3/2081744.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/76/80/cb768057ae5472d7b1f1f17ce60737ed.jpg" group-title="CANAIS | ABERTOS",GLOBO RJ - SERVIDOR 1
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS",RECORD SP - SERVIDOR 1
 http://79.127.243.211:14640
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS",RECORD SP - SERVIDOR 3
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.band.com.br/image/2025/06/25/band-campinas-165533_400x300.webp" group-title="CANAIS | ABERTOS",BAND SP - SERVIDOR 3
+#EXTINF:-1 tvg-logo="https://img.band.com.br/image/2025/06/25/band-campinas-165533_400x300.webp" group-title="CANAIS | ABERTOS",BAND SP - SERVIDOR 1
 http://79.127.243.211:14703
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/original/bandnews-logo_bc6f60bb73800d02c05386c5810d73e6023376d5.jpeg" group-title="CANAIS | NOTICIAS",BAND NEWS - SERVIDOR 1
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21
