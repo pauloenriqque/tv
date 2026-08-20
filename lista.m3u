@@ -151,10 +151,6 @@ http://185.152.67.187:14343
 http://79.127.243.211:14773
 #EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 3
 http://177.52.24.163/DISCOVERY-CHANNEL-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 4
-http://46.151.196.223:14074
-#EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg?w=450&h=213" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL - SERVIDOR 4
-http://45.178.215.69:8000/play/a055
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxFZoKSxgvCNzxW15ShiMHECx6QXdaQcLMDg2TGWlxUg2EgP9NEnCqKw0Yoai_pVSFqSUI0-rNqIBCbj3TfTnZxwCTXZyHs5fwPwkRo7lUD6goi14vhpOrOujZONkD6_fGRLVSLqfB7I/s1600/_0040_discovery_hh.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME & HEALTH - SERVIDOR 1
 http://185.152.67.187:14349
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxFZoKSxgvCNzxW15ShiMHECx6QXdaQcLMDg2TGWlxUg2EgP9NEnCqKw0Yoai_pVSFqSUI0-rNqIBCbj3TfTnZxwCTXZyHs5fwPwkRo7lUD6goi14vhpOrOujZONkD6_fGRLVSLqfB7I/s1600/_0040_discovery_hh.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME & HEALTH - SERVIDOR 1
@@ -273,10 +269,10 @@ http://79.127.238.228:14093
 http://79.127.243.211:14254
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.tpArfNgI7BfZt2lKJp9RkAHaHa?rs=1&pid=ImgDetMain" group-title="CANAIS | NOTICIAS",JOVEM PAN - SERVIDOR 1
 http://79.127.243.211:14258
-#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE  - SERVIDOR 2
-http://79.127.238.228:14157
 #EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE  - SERVIDOR 1
-http://45.235.0.78/Premiere_Clubes/index.m3u8
+http://79.127.238.228:14157
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE  - SERVIDOR 2
+http://177.52.24.163/PREMIERE-1-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 2  - SERVIDOR 2
 http://79.127.243.211:14481
 #EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | PREMIERE",PREMIERE 2  - SERVIDOR 1
@@ -368,7 +364,7 @@ https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay_Rights/Masterchef_Brasil
 #EXTINF:-1 tvg-logo="https://img.observatoriodatv.com.br/wp-content/uploads/2025/08/Imagem-1536x864.jpeg.webp" group-title="CANAIS | 24 HORAS",MASTERCHEF - SERVIDOR 2
 https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
 #EXTINF:-1 tvg-logo="https://minhaseriefavorita.com.br/wp-content/webp-express/webp-images/uploads/2025/01/largados_e_pelados.png.webp" group-title="CANAIS | 24 HORAS",LARGADOS E PELADOS - SERVIDOR 1
-http://185.152.67.187:14343
+http://46.151.196.223:14074
 
 
 ############################################################################  FILMES ##############################################################################################
