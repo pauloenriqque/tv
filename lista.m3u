@@ -2,13 +2,14 @@
 ##### https://raw.githubusercontent.com/pauloenriqque/tv/refs/heads/main/lista.m3u / https://bit.ly/listaphs1 #######
 
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/multishow-logo-3/multishow-logo-3.png" group-title="CANAIS | FILMES E SÉRIES",MULTISHOW - SERVIDOR 1
 http://46.151.196.223:14093
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2020/08/GNT.jpg" group-title="CANAIS | FILMES E SÉRIES",GNT - SERVIDOR 1
 http://79.127.243.211:14312
-#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDQ-27bdrzrNw5olkhAYisq9HjrJO-ez6zRUY6T9OrmWnqN7GDIT2RfgPVl62dFvtPL4w4FMWru_8gbRl9av2mxIYw9a3OFjTRB3dC-BWnQEmvA9Ewe9ZoZDUiyX1nJgmXqR028lJSzwe/s1600/cinemax-2014.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDQ-27bdrzrNw5olkhAYisq9HjrJO-ez6zRUY6T9OrmWnqN7GDIT2RfgPVl62dFvtPL4w4FMWru_8gbRl9av2mxIYw9a3OFjTRB3dC-BWnQEmvA9Ewe9ZoZDUiyX1nJgmXqR028lJSzwe/s1600/cinemax-2014.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX - SERVIDOR 1
 http://streamer.sattvacabo.com.br/CINEMAX/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDQ-27bdrzrNw5olkhAYisq9HjrJO-ez6zRUY6T9OrmWnqN7GDIT2RfgPVl62dFvtPL4w4FMWru_8gbRl9av2mxIYw9a3OFjTRB3dC-BWnQEmvA9Ewe9ZoZDUiyX1nJgmXqR028lJSzwe/s1600/cinemax-2014.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDQ-27bdrzrNw5olkhAYisq9HjrJO-ez6zRUY6T9OrmWnqN7GDIT2RfgPVl62dFvtPL4w4FMWru_8gbRl9av2mxIYw9a3OFjTRB3dC-BWnQEmvA9Ewe9ZoZDUiyX1nJgmXqR028lJSzwe/s1600/cinemax-2014.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX - SERVIDOR 2
 http://177.52.24.163/CINEMAX-HD/index.m3u8
 #EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="CANAIS | FILMES E SÉRIES",GLOBOPLAY NOVELAS
 http://79.127.238.228:14455/
@@ -18,6 +19,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 http://79.127.238.228:14647/
 #EXTINF:-1 tvg-logo="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/warner-bros-logo.jpg?q=50&fit=crop&w=1600&h=900&dpr=1.5" group-title="CANAIS | FILMES E SÉRIES",WARNER BROS TV - SERVIDOR 2
 http://46.151.196.223:14648
+#EXTINF:-1 tvg-logo="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/warner-bros-logo.jpg?q=50&fit=crop&w=1600&h=900&dpr=1.5" group-title="CANAIS | FILMES E SÉRIES",WARNER BROS TV - SERVIDOR 3
+http://streamer.sattvacabo.com.br/WARNER_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/poster/480x270/runtime_brazil_1400x2000_0.jpg" group-title="CANAIS | FILMES E SÉRIES"",RUN TIME - ROMANCE
 https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/poster/480x270/runtime_brazil_1400x2000_0.jpg" group-title="CANAIS | FILMES E SÉRIES"",RUN TIME - FAMÍLIA
@@ -30,12 +33,16 @@ https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
 https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/poster/480x270/runtime_brazil_1400x2000_0.jpg" group-title="CANAIS | FILMES E SÉRIES"",RUN TIME - SUSPENSE
 https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wem1nAc.png" group-title="CANAIS | FILMES E SÉRIES",SONY MOVIES
+http://45.162.64.114:80/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png?$ORIGIN_PNG$" group-title="CANAIS | FILMES E SÉRIES",SONY - EMOÇÕES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVdTeeUFGVsXkRCQ3yY1WYw3c4tDCWMm0jQ&s" group-title="CANAIS | FILMES E SÉRIES",SONY - CLASSIC
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8spUd_f282qm1xLVpumVoublcqvHRYJen98bG4SKb5R0SYqjj_x61j7wQnUYJyj3Q2Wc&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",A&E - SERVIDOR 1
 http://79.127.238.228:14551
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8spUd_f282qm1xLVpumVoublcqvHRYJen98bG4SKb5R0SYqjj_x61j7wQnUYJyj3Q2Wc&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",A&E - SERVIDOR 2
+http://streamer.sattvacabo.com.br/AE_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="CANAIS | FILMES E SÉRIES",MY TIME NETWORK - SERVIDOR 1
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3XeDwHXpVUBD6sogGoaaFLVImbKFAyOmJ1zVDtmRPvBFUuZTeQCGRRmrB_94tr5FoB8=w600-h300-pc0xffffff-pd" group-title="CANAIS | FILMES E SÉRIES",HALLO SÉRIES - SERVIDOR 1
@@ -53,7 +60,7 @@ http://46.151.196.223:14929
 #EXTINF:-1 tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/logohbosignature-min.png" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE - SERVIDOR 2
 http://streamer.sattvacabo.com.br/HBO_SIGNATURE/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.NmHkr4X3Pej9HFc4IE65aQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",HBO - SERVIDOR 1
-http://79.127.243.211:14668
+https://cr7v.short.gy/ManoTV/temporário/index.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/689b6e66975335.5b2ac2d3085cc.jpg" group-title="CANAIS | FILMES E SÉRIES",HBO+ - SERVIDOR 1
 http://streamer.sattvacabo.com.br/HBO_PLUS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="CANAIS | FILMES E SÉRIES",HBO - SERVIDOR 2
@@ -76,6 +83,12 @@ https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 http://79.127.243.211:14615
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.lDS8LGQmvx_Grjp-AJ80jgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",TNT - SERVIDOR 2
 http://177.52.24.163/TNT-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.lDS8LGQmvx_Grjp-AJ80jgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",TNT - SERVIDOR 3
+http://s2.micineovs.com/TNT/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.lDS8LGQmvx_Grjp-AJ80jgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",TNT - SERVIDOR 4
+http://streamer.sattvacabo.com.br/TNT_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.lDS8LGQmvx_Grjp-AJ80jgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CANAIS | FILMES E SÉRIES",TNT - SERVIDOR 4
+https://megaflix.mgfiles.lat/c794c0d7dcd2186c964b895fcde20767/file.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wq1r13HcuhW0DALmiB4vOuudUzoXgZEiR7xwO5Xyw5ewTOqFsGjQmW1st0dAEoJ7oMW4oDPB=s160-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS - SERVIDOR 2
 http://185.246.208.74:14941/
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wq1r13HcuhW0DALmiB4vOuudUzoXgZEiR7xwO5Xyw5ewTOqFsGjQmW1st0dAEoJ7oMW4oDPB=s160-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS - SERVIDOR 1
@@ -88,6 +101,8 @@ http://185.246.208.74:14944/
 http://177.52.24.163/TNT-SERIES-HD/index.m3u8 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.9M69eKHaaIQ_NzEuPkvEvQAAAA?w=202&h=176&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",SPACE - SERVIDOR 1
 http://46.151.196.223:14607
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.9M69eKHaaIQ_NzEuPkvEvQAAAA?w=202&h=176&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | FILMES E SÉRIES",SPACE - SERVIDOR 2
+http://45.162.64.114/SPACE/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dL3xeYjH8ww/XvuJsizX6RI/AAAAAAAAHIQ/FC5S-H7Ys6QZM-TJGTBgRp3GP4tlhTMYgCNcBGAsYHQ/s1600/RECORD%2BPNG.png" group-title="CANAIS | FILMES E SÉRIES",TC ACTION - SERVIDOR 1
 http://79.127.243.211:14632
 #EXTINF:-1 tvg-logo="https://archive.org/download/brunoflixlogos/tc_fun.png" group-title="CANAIS | FILMES E SÉRIES",TC FUN - SERVIDOR 1
@@ -106,6 +121,11 @@ http://177.52.24.163/TELECINE-PREMIUM-HD/index.m3u8
 http://79.127.243.211:14652
 #EXTINF:-1 tvg-logo="https://programacao.tv/imagens/megapix.webp" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX - SERVIDOR 1
 http://177.52.24.163/MEGAPIX-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://programacao.tv/imagens/megapix.webp" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX - SERVIDOR 2
+http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="CANAIS | FILMES E SÉRIES",AMC - SERVIDOR 1
+https://megaflix.mgfiles.lat/3513f168d2eda5dd82e5b2191ed5492e/file.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.urban.tv.br/canais/logo-urbanmovies.jpg" group-title="CANAIS | FILMES E SÉRIES",URBAN FILMES - SERVIDOR 1
 http://200.194.238.229:8383/live/urbanmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.urban.tv.br/canais/logo-urbanseries.jpg" group-title="CANAIS | FILMES E SÉRIES",URBAN SERIES - SERVIDOR 1
@@ -127,12 +147,14 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_0,y_0,h_733,w_1100/c_fill,w_860,h_573/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv" group-title="CANAIS | INTERNACIONAIS",RED BULL - SERVIDOR 1
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="CANAIS | DOCUMENTARIOS",HGTV - SERVIDOR 1
+http://200.229.190.189:8001/play/a01b
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2F9asSD.png" group-title="CANAIS | DOCUMENTARIOS",TLC - SERVIDOR 1
+http://79.127.238.228:14433/TLChd
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.vOxdL6h8SYaisnnmhHYzqgHaHx?w=158&h=180&c=7&r=0&o=5&pid=1.7" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE - SERVIDOR 1
 http://177.52.24.163/DISCOVERY-SCIENCE-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_s6RXzLM9AeNxZZAqFUcmgijdkPApc_4slA&s" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET - SERVIDOR 1
-http://79.127.243.211:14370
+http://streamer.sattvacabo.com.br/ANIMAL_PLANET_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_s6RXzLM9AeNxZZAqFUcmgijdkPApc_4slA&s" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET - SERVIDOR 2
 http://177.52.24.163/ANIMAL-PLANET-HD/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/E-Entertainment-Television-logo-1990s.png?resize=152%2C320" group-title="CANAIS | DOCUMENTARIOS",E! - SERVIDOR 1
@@ -166,7 +188,7 @@ http://177.52.24.163/DISCOVERY-WORLD-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/2021-HISTORY-LOGO-3K-RGB-750x375.jpg" group-title="CANAIS | DOCUMENTARIOS",HISTORY
 http://177.52.24.163/HISTORY-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://voxnews.com.br/wp-content/uploads/2022/02/H2-FLAT-RGB-300x300.jpg" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 - SERVIDOR 1
-https://cdn-5.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/index.m3u8
+http://185.152.67.187:14392/
 
 
 
@@ -245,6 +267,8 @@ http://79.127.243.211:14640
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.band.com.br/image/2025/06/25/band-campinas-165533_400x300.webp" group-title="CANAIS | ABERTOS",BAND SP - SERVIDOR 1
 http://79.127.243.211:14703
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="CANAIS | ABERTOS",BAND SP - SERVIDOR 2
+http://184.154.244.75:14006/
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/original/bandnews-logo_bc6f60bb73800d02c05386c5810d73e6023376d5.jpeg" group-title="CANAIS | NOTICIAS",BAND NEWS - SERVIDOR 1
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="CANAIS | NOTICIAS",SBT NEWS - SERVIDOR 1
