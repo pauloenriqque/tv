@@ -289,6 +289,8 @@ https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlis
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.tpArfNgI7BfZt2lKJp9RkAHaHa?rs=1&pid=ImgDetMain" group-title="CANAIS | NOTICIAS",GLOBO NEWS - SERVIDOR 1
 http://79.127.238.228:14093
+#EXTINF:-1 tvg-logo="https://www.areavip.com.br/wp-content/uploads/2024/12/cnn-brasil-696x464.jpg" group-title="CANAIS | NOTICIAS",CNN BRASIL - SERVIDOR 1
+http://170.83.49.66:8083/CNNBRASILHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.tpArfNgI7BfZt2lKJp9RkAHaHa?rs=1&pid=ImgDetMain" group-title="CANAIS | NOTICIAS",GLOBO NEWS - SERVIDOR 2
 http://79.127.243.211:14254
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.tpArfNgI7BfZt2lKJp9RkAHaHa?rs=1&pid=ImgDetMain" group-title="CANAIS | NOTICIAS",JOVEM PAN - SERVIDOR 1
